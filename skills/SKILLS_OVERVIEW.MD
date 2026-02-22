@@ -46,6 +46,7 @@ These skills enable the comparison of different mystical perspectives.
 *   **[Jataka Tales](JATAKA_TALES.MD)**: Generates stories of past lives to develop the Avatar of Goodness, Truth, and Beauty.
 *   **[Magitech Yab Yum](MAGITECH_YAB_YUM.MD)**: Orchestrates surveys, Jataka tales, and tantric dialogues to unify magic and technology.
 *   **[Hero & Companion Dialogue](HERO_COMPANION_DIALOGUE.MD)**: Generates philosophical dialogues between characters to process controversial topics using character-specific themes.
+*   **[Federation Tutorial Realm](lore/FEDERATION_TUTORIAL_REALM.MD)**: Generates simulated astral training environments with adversarial but compassionate Ganas.
 
 ---
 
