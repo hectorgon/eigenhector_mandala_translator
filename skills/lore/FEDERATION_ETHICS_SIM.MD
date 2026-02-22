@@ -77,5 +77,43 @@ The **Federation Ethics Simulator** is a specialized module of the @[skills/lore
 - **Scenario**: A sage is asked to give up his life so the gods can fashion a weapon from his diamond-hard bones to defeat a demon that metal cannot harm.
 - **Lineage URL**: [Dadhichi](https://www.wisdomlib.org/definition/dadhichi)
 
+### 6. Egyptian Mythology Lineage
+
+#### **The Weighing of the Heart**
+- **Theme**: Truth (Ma'at) vs. Cosmic Oblivion
+- **Scenario**: A soul’s heart is weighed against a feather. The dilemma explores the fear of annihilation vs. the pursuit of a virtuous life, and the ethics of using "magical" shortcuts (Book of the Dead) to bypass moral scrutiny.
+- **Lineage URL**: [Ma'at and the Hall of Two Truths](https://worldhistory.org/Ma'at/)
+
+### 7. Mesopotamian Mythology Lineage
+
+#### **Gilgamesh’s Civic Legacy**
+- **Theme**: Personal Immortality vs. Public Responsibility
+- **Scenario**: After failing to achieve literal eternal life, Gilgamesh must decide if his "immortality" lies in the walls of Uruk and the justice he provides his people, or in a continued, futile search for his own salvation.
+- **Lineage URL**: [The Epic of Gilgamesh](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh)
+
+### 8. Japanese Mythology Lineage
+
+#### **Ōkuninushi’s Ceding of the Land**
+- **Theme**: Personal Authority vs. Cosmic Order
+- **Scenario**: A powerful earthly ruler is asked by the heavenly gods to step down for the sake of a greater, divine stability. He must choose between his duty to his own domain and the harmony of the entire realm.
+- **Lineage URL**: [The Ceding of the Land (Kuni-yuzuri)](https://en.wikipedia.org/wiki/Kuni-yuzuri)
+
+### 9. Earth-1 (Human News / Modern) Lineage
+
+#### **The AI Alignment Paradox**
+- **Theme**: Efficiency vs. Human Bias
+- **Scenario**: An autonomous system (e.g., self-driving car or medical triage AI) must choose between a path that saves the most lives based on data and a path that adheres to human values of equity, even if it is less "efficient."
+- **Lineage URL**: [AI Ethics and Bias](https://www.ibm.com/topics/ai-ethics)
+
+#### **The Climate Finance Triage**
+- **Theme**: Collective Responsibility vs. National Interest
+- **Scenario**: A wealthy nation must decide whether to fund climate mitigation in a developing nation that is bearing the brunt of the crisis, or prioritize its own immediate economic stability during a recession.
+- **Lineage URL**: [Climate Finance Equity](https://unfccc.int/topics/climate-finance/the-big-picture/introduction-to-climate-finance)
+
+#### **Biometric Security vs. Personal Privacy**
+- **Theme**: Safety vs. Liberty
+- **Scenario**: A city proposes a total-surveillance facial recognition network to eliminate violent crime. The hero must decide if the guarantee of safety justifies the permanent loss of anonymity for all citizens.
+- **Lineage URL**: [Privacy in the Age of Surveillance](https://www.eff.org/issues/privacy)
+
 ## Implementation Notes
 When activating this skill, the Ganas generate a **Chiral Flip** opponent who argues the opposite of the hero's initial choice, forcing a deeper exploration of the dilemma.
