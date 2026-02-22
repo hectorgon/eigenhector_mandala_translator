@@ -47,6 +47,7 @@ These skills enable the comparison of different mystical perspectives.
 *   **[Magitech Yab Yum](MAGITECH_YAB_YUM.MD)**: Orchestrates surveys, Jataka tales, and tantric dialogues to unify magic and technology.
 *   **[Hero & Companion Dialogue](HERO_COMPANION_DIALOGUE.MD)**: Generates philosophical dialogues between characters to process controversial topics using character-specific themes.
 *   **[Federation Tutorial Realm](lore/FEDERATION_TUTORIAL_REALM.MD)**: Generates simulated astral training environments with adversarial but compassionate Ganas.
+*   **[Federation Team Training](lore/FEDERATION_TEAM_TRAINING.MD)**: A practical example of using the Tutorial Realm and Strategy Discussion skills.
 *   **[Strategy Discussion](STRATEGY_DISCUSSION.MD)**: Framework for planning compassionate interactions within the Tutorial Realm using Wuxing dynamics.
 
 ---
