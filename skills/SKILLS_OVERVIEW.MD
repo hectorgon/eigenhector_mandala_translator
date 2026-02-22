@@ -49,6 +49,7 @@ These skills enable the comparison of different mystical perspectives.
 *   **[Federation Tutorial Realm](lore/FEDERATION_TUTORIAL_REALM.MD)**: Generates simulated astral training environments with adversarial but compassionate Ganas.
 *   **[Federation Team Training](lore/FEDERATION_TEAM_TRAINING.MD)**: A practical example of using the Tutorial Realm and Strategy Discussion skills.
 *   **[Strategy Discussion](STRATEGY_DISCUSSION.MD)**: Framework for planning compassionate interactions within the Tutorial Realm using Wuxing dynamics.
+*   **[Federation Ethics Simulator](lore/FEDERATION_ETHICS_SIM.MD)**: A specialized module of the Tutorial Realm for exploring complex ethical dilemmas from various lineages.
 
 ---
 
