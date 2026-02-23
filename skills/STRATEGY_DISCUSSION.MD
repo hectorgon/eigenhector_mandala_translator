@@ -25,7 +25,7 @@ Used for de-escalating or restraining aggressive energies without destruction.
 - **Metal controls Wood**: Pruning excessive or unskilful growth.
 
 ### 3. The Resonance Cycle (The Included Middle)
-Used by [Researchers](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/RESEARCHER.MD) to resolve "Excluded Middle" deadlocks where two opposing forces (e.g., A and Not-A) create a Gordian Knot.
+Used by [Researchers](skills/lore/roles/RESEARCHER.MD) to resolve "Excluded Middle" deadlocks where two opposing forces (e.g., A and Not-A) create a Gordian Knot.
 - **The Tactic**: Holding the tension of opposites until a "Third Space" or higher-dimensional resonance arises.
 - **The Result**: The conflict is not "won" or "lost," but dissolved into a new, generative insight that includes both poles.
 
@@ -81,4 +81,4 @@ Heroes should fill this out before the Protectors (Kitty Garba, Cernnunos, or Ga
 ## References
 - (Hector Yee - Different Ways of Dealing with Difficult Beings)
 - [Wuxing (Chinese Philosophy)](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy))
-- [Federation Tutorial Realm](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/lore/FEDERATION_TUTORIAL_REALM.MD)
+- [Federation Tutorial Realm](skills/lore/FEDERATION_TUTORIAL_REALM.MD)
