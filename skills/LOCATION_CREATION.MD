@@ -20,6 +20,7 @@ A 2-3 paragraph description of the location's physical and metaphysical nature.
 
 ## Magitech Profile
 - **Global Rank**: [Iron to Transcendent]
+- **Homeworld Status**: [Yes/No]
 - **Technological Features**: [Engineering, Wordcel, Shape Rotator specializations]
 - **Magical Prowess**: [Vibe Aura, Bridging, Resonance specializations]
 
@@ -34,7 +35,7 @@ Describe the typical beings found here.
 - **Chiral Flip Potential**: What would a "negative" or "opposite" version of this realm's ethics look like?
 
 ## Tutorial Integration
-- **Tutorial Realm Instance**: [Yes/No]
+- **Tutorial Simulation Rank**: [None/Iron/Silver/Gold/Diamond/Transcendent (Unsimulatable)]
 - **Scenario**: Description of the specific training scenario (e.g., Razor Tree) if applicable.
 - **Protector in Residence**: [e.g., Kitty Garba, Cernunnos]
 

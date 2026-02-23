@@ -11,6 +11,7 @@ For the crew of the exploration vessel *We Made It*, the Eye was not a threat bu
 
 ## Magitech Profile
 - **Global Rank**: **Transcendent**
+- **Homeworld Status**: **No** (Singularity Node)
 - **Technological Features**: 
     - **Wordcel**: Exponentially increasing memory scratch space, perfect recall, and network bandwidth.
     - **Shape Rotator**: Retrocausal upgrading and the transition from material space to the Transcend.
@@ -28,7 +29,7 @@ For the crew of the exploration vessel *We Made It*, the Eye was not a threat bu
 - **Chiral Flip Potential**: A "Black Hole of Ignorance" that consumes information without reflection, leading to oblivion rather than transcendence.
 
 ## Tutorial Integration
-- **Tutorial Realm Instance**: **No** (Direct Transcendence Node)
+- **Tutorial Simulation Rank**: **Transcendent (Unsimulatable)**
 - **Scenario**: N/A - Real-world Event.
 - **Protector in Residence**: None (Self-governed by the Vimarsha consciousness).
 

@@ -5,12 +5,13 @@
 - **Associated Skills**: @[skills/lore/FEDERATION_TUTORIAL_REALM.MD], @[skills/MAGITECH_SURVEY.MD]
 
 ## Summary
-The **Emerald Mausoleum** is a "Shrouded Gaia World" home to the Fae civilization. It exists in a perpetual cycle of **Arising and Passing**, periodically transitioning between a pristine natural Gaia planet and a desolate, post-apocalyptic **Tomb World**. This "Winter phase" allows the civilization to rest, regressing into a simple hunter-gatherer lifestyle while their advanced magitech remains hidden underground.
+The **Emerald Mausoleum** is the **Homeworld of Cernunnos and the Fae**, a "Shrouded Gaia World" and integral member of the Federation. It exists in a perpetual cycle of **Arising and Passing**, periodically transitioning between a pristine natural Gaia planet and a desolate, post-apocalyptic **Tomb World**. This "Winter phase" allows the civilization to rest, regressing into a simple hunter-gatherer lifestyle while their advanced magitech remains hidden underground.
 
 The planet is hollow, with the surface dedicated to lush forests during fallow periods, while the core houses massive infrastructure like the **Yggdrasil World Tree** (a sky-hook/realm gate combo) and the **Dharmapala** carrier ships. The transition from Shrouded/Tomb to Open/Gaia is a major cosmic event managed by the Protectors.
 
 ## Magitech Profile
 - **Global Rank**: **Diamond** (Protector Rank)
+- **Homeworld Status**: **Yes** (Homeworld of the Fae)
 - **Technological Features**: 
     - **Engineering**: **Dharmapala** carrier ships (flying beehives) and insectoid destroyers.
     - **Shape Rotator**: The **Yggdrasil** space elevator and the **Maya-based Shroud** that conceals the planet's true state.
@@ -28,9 +29,8 @@ The planet is hollow, with the surface dedicated to lush forests during fallow p
 - **Chiral Flip Potential**: A "Static Empire" that refuses to transition, eventually stagnating and rotting because it fears the "Winter" cycle.
 
 ## Tutorial Integration
-- **Tutorial Realm Instance**: **Yes** (Gaia/Tomb Cycle Simulation)
+- **Tutorial Simulation Rank**: **Diamond** (Gaia/Tomb Cycle Simulation)
 - **Scenario**: Training in the cycles of Arising and Passing; students learn how "Tomb Worlds" can ripple back into "Gaia Worlds."
-- **Protector in Residence**: **Cernunnos**
 
 ## Visual Synthesis (Thangka Prompt)
 - **Atmosphere**: A planet rippling like water, with a grey murky shroud dissipating to reveal vibrant emerald-colored forests.

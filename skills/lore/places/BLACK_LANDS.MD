@@ -11,6 +11,7 @@ The core practice here is the **Burning Bones Bhavana**, where the practitioner 
 
 ## Magitech Profile
 - **Global Rank**: **Silver** (High elemental resonance)
+- **Homeworld Status**: **No** (Metaphysical Dimension)
 - **Technological Features**: 
     - **Wordcel**: Precision in the ritual sequences of the **Kali/Ganapati** invocations.
     - **Shape Rotator**: Transition from solid flesh to elemental steam, fire, and eventually formless space.
@@ -28,7 +29,7 @@ The core practice here is the **Burning Bones Bhavana**, where the practitioner 
 - **Chiral Flip Potential**: A "Cursed Charnel Ground" that burns only for destruction, leaving no light or space, just ashes and despair.
 
 ## Tutorial Integration
-- **Tutorial Realm Instance**: **No** (Advanced Vision Site)
+- **Tutorial Simulation Rank**: **Silver** (Elemental Vision Site)
 - **Scenario**: N/A
 - **Protector in Residence**: **Ganaspati** (Protector of the threshold).
 

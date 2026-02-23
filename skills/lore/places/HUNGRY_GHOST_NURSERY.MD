@@ -11,6 +11,7 @@ The realm is a metaphorical dreamscape that exists at the "Shushumna" of the cos
 
 ## Magitech Profile
 - **Global Rank**: **Silver** (High metaphysical potential)
+- **Homeworld Status**: **No** (Metaphysical Nursery)
 - **Technological Features**: 
     - **Wordcel**: Application of the **Neijingtu transport algorithm** for energy circulation.
     - **Shape Rotator**: Navigation of the **Microcosmic Orbit** and hyperjumping into the "Clay Pill Palace" Realm Gate.
@@ -28,7 +29,7 @@ The realm is a metaphorical dreamscape that exists at the "Shushumna" of the cos
 - **Chiral Flip Potential**: A "Glutton's Banquet" where eating only increases hunger, reflecting the negative aspect of addictive dissatisfaction.
 
 ## Tutorial Integration
-- **Tutorial Realm Instance**: **No** (Active Sanctuary)
+- **Tutorial Simulation Rank**: **Silver** (Stable Sanctuary Simulation)
 - **Scenario**: N/A
 - **Protector in Residence**: **Ganaspati** (Lord of the Ganas and obstacles).
 

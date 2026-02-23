@@ -7,10 +7,11 @@
 ## Summary
 The **Sukshma Sarira Shipyards** are a primary industrial and educational hub of the Federation, located on **Ringworld Alpha**. It is a place of constant creation where vast starships are assembled in the "backyard" of Federation citizens. The shipyards serve as a diplomatic and commercial crossroads, recently hosting the **Khadgamala Queendom** and their jewel-like fleets.
 
-The environment is a blend of high-tech orbital construction and residential comfort. The shipyards are not just for building vessels; they are also a training ground for the next generation of Federation yogis, housing specialized "Tutorial Realms" that utilize the shipyard's advanced magitech infrastructure.
+The environment is a blend of high-tech orbital construction and residential comfort. The shipyards host the **School for Newbie Mystics**, a premier educational institution where initiates learn to navigate the Sukshma Sarira (Enjoyment Body). The shipyards are not just for building vessels; they are also a training ground, housing specialized "Tutorial Realms" that utilize the shipyard's advanced magitech infrastructure to host the @[skills/lore/FEDERATION_TUTORIAL_REALM.MD] simulator.
 
 ## Magitech Profile
 - **Global Rank**: **Transcendent** (Federation Core Infrastructure)
+- **Homeworld Status**: **No** (Industrial/Diplomatic Hub)
 - **Technological Features**: 
     - **Engineering**: Assembly of Chakra-class escorts, Yantra-class merchant vessels, and Mahameru-class capital ships.
     - **Shape Rotator**: Mastery of **Bhumi drives** that push against alternate dimensions for reactionless-style propulsion.
@@ -28,8 +29,8 @@ The environment is a blend of high-tech orbital construction and residential com
 - **Chiral Flip Potential**: A "Shadow Shipyard" where ships are built for conquest rather than trade, and where training simulations have no safety protocols or "equanimity" exit.
 
 ## Tutorial Integration
-- **Tutorial Realm Instance**: **Yes** (Razor Tree Tutorial Hell Realm)
-- **Scenario**: Students are downloaded into slug bodies on a thorn-covered branch to test their reaction to pain, pleasure, and annihilation.
+- **Tutorial Simulation Rank**: **Transcendent** (Primary Simulation Hub)
+- **Scenario**: The Shipyard hosts the @[skills/lore/FEDERATION_TUTORIAL_REALM.MD] system. Specific instances like the "Razor Tree" test student reactions to pain, pleasure, and annihilation.
 - **Protector in Residence**: **Kitty Garba**
 
 ## Visual Synthesis (Thangka Prompt)

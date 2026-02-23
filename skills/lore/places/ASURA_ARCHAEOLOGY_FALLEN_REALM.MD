@@ -11,6 +11,7 @@ Debugging these realms involves setting up a **Temenos** (purified field) and a 
 
 ## Magitech Profile
 - **Global Rank**: **Iron** (Decaying status)
+- **Homeworld Status**: **No** (Fallen Realm)
 - **Technological Features**: 
     - **Engineering**: Junk-yard level salvage; rusty fridges and broken slot machines.
     - **Shape Rotator**: Disrupted **Maya Kanchuka** that requires a **Time Slicer** to synchronize.
@@ -28,7 +29,7 @@ Debugging these realms involves setting up a **Temenos** (purified field) and a 
 - **Chiral Flip Potential**: A "Utopia of Perfection" that is so sterile it allows no freedom, acting as a mirror to the entropic Junk Yard.
 
 ## Tutorial Integration
-- **Tutorial Realm Instance**: **No** (Direct intervention/Archaeology site)
+- **Tutorial Simulation Rank**: **Iron** (Low-fidelity simulation)
 - **Scenario**: N/A - Real-world Debugging Operation.
 - **Protector in Residence**: **Cernunnos** (via Treant Protector summons).
 
