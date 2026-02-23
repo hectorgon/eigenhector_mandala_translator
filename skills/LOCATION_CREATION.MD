@@ -21,8 +21,13 @@ A 2-3 paragraph description of the location's physical and metaphysical nature.
 ## Magitech Profile
 - **Global Rank**: [Iron to Transcendent]
 - **Homeworld Status**: [Yes/No]
+- **Mandala Coordinate**: [Front, Right, Behind, Left, Below, Above, Center]
+- **Core Resonance**: [e.g., Anahata, Vajra, Shunya]
 - **Technological Features**: [Engineering, Wordcel, Shape Rotator specializations]
 - **Magical Prowess**: [Vibe Aura, Bridging, Resonance specializations]
+
+## Unique Materials & Artefacts
+List 2-3 unique items found in the realm.
 
 ## Inhabitants & Past Lives
 Describe the typical beings found here.

@@ -12,12 +12,19 @@ The core practice here is the **Burning Bones Bhavana**, where the practitioner 
 ## Magitech Profile
 - **Global Rank**: **Silver** (High elemental resonance)
 - **Homeworld Status**: **No** (Metaphysical Dimension)
+- **Mandala Coordinate**: **Behind** (Ancestral/Purification)
+- **Core Resonance**: **Agni-Vajra** (Sacred Fire-Indestructible)
 - **Technological Features**: 
     - **Wordcel**: Precision in the ritual sequences of the **Kali/Ganapati** invocations.
     - **Shape Rotator**: Transition from solid flesh to elemental steam, fire, and eventually formless space.
 - **Magical Prowess**: 
     - **Resonance**: Tuning into the **Udgitha** chant and the **Victorious Breath** to achieve internal fire resonance.
     - **Bridging**: The bridge between the "Burning Corpse" (Liminality) and the "Sacred Light" (Transcendent Base).
+
+## Unique Materials & Artefacts
+- **Agnihotra Ash**: Concentrated remains of elemental transmutation, used to stabilize volatile Vibe Auras.
+- **Bone-Flute of the Gandharva**: A ritual tool that can harmonize chaotic spirit frequencies.
+
 
 ## Inhabitants & Past Lives
 - **Key Entity**: The **Burning Skeleton** (A teacher of purification).

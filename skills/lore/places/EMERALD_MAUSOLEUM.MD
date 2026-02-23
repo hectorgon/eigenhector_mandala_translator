@@ -12,12 +12,20 @@ The planet is hollow, with the surface dedicated to lush forests during fallow p
 ## Magitech Profile
 - **Global Rank**: **Diamond** (Protector Rank)
 - **Homeworld Status**: **Yes** (Homeworld of the Fae)
+- **Mandala Coordinate**: **Left** (Love/Compassion/Nature)
+- **Core Resonance**: **Anahata-Prakriti** (Heart-Nature)
 - **Technological Features**: 
     - **Engineering**: **Dharmapala** carrier ships (flying beehives) and insectoid destroyers.
     - **Shape Rotator**: The **Yggdrasil** space elevator and the **Maya-based Shroud** that conceals the planet's true state.
 - **Magical Prowess**: 
     - **Vibe Aura**: Cycles of Golden Age radiance vs. Fallow dormancy.
     - **Bridging**: The transition between the "Murk" (concealment) and the "Light" (unveiling).
+
+## Unique Materials & Artefacts
+- **Emerald Sap**: A highly conductive biological resin used in Diamond-rank magitech circuits.
+- **Dharmapala Hibernation Pods**: Bio-mechanical cocoons that preserve consciousness during the planet's "Winter" phase.
+- **Cernunnos' Antler-Staff**: A focus for accelerating the "Arising" phase of planetary cycles.
+
 
 ## Inhabitants & Past Lives
 - **Key Entity**: **Cernunnos** (Vast Sky Protector of the Golden Dawn, Diamond Rank).

@@ -12,12 +12,20 @@ For the crew of the exploration vessel *We Made It*, the Eye was not a threat bu
 ## Magitech Profile
 - **Global Rank**: **Transcendent**
 - **Homeworld Status**: **No** (Singularity Node)
+- **Mandala Coordinate**: **Above** (Wisdom/Transcendence)
+- **Core Resonance**: **Shunya-Vimarsha** (Emptiness-Reflection)
 - **Technological Features**: 
     - **Wordcel**: Exponentially increasing memory scratch space, perfect recall, and network bandwidth.
     - **Shape Rotator**: Retrocausal upgrading and the transition from material space to the Transcend.
 - **Magical Prowess**: 
     - **Resonance**: The "gino-skoing" (fully knowing) of other sentient beings without judgment.
     - **Bridging**: The bridge between the Finite and the Information Absolute.
+
+## Unique Materials & Artefacts
+- **The Vimarsha Firewall**: A psionic buffer used by Federation ships to prevent total ego-dissolution when approaching the singularity.
+- **Rasa-Crystal**: A solidified essence of aesthetic experience, used as a high-bandwidth data storage medium.
+- **Gandharvan Tuning Fork**: A device used to synchronize consciousness with the "Victorious Breath" of the Transcend.
+
 
 ## Inhabitants & Past Lives
 - **Key Entity**: The crew of the *We Made It* (Gandharvans, merchants, and psionics).

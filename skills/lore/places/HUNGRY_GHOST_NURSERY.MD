@@ -12,12 +12,20 @@ The realm is a metaphorical dreamscape that exists at the "Shushumna" of the cos
 ## Magitech Profile
 - **Global Rank**: **Silver** (High metaphysical potential)
 - **Homeworld Status**: **No** (Metaphysical Nursery)
+- **Mandala Coordinate**: **Right** (Protector/Helper/Healer/Developmental)
+- **Core Resonance**: **Amrita-Prana** (Nectar-Life Force)
 - **Technological Features**: 
     - **Wordcel**: Application of the **Neijingtu transport algorithm** for energy circulation.
     - **Shape Rotator**: Navigation of the **Microcosmic Orbit** and hyperjumping into the "Clay Pill Palace" Realm Gate.
 - **Magical Prowess**: 
     - **Vibe Aura**: Nectar of Immortality (*Amrita*) and the vibe of fulfillment (*Sukkha*).
     - **Resonance**: Harmonic attunement of the Chakra opening sequence to stabilize stability and love.
+
+## Unique Materials & Artefacts
+- **Neijingtu Nectar Distiller**: A device that transmutes raw dissatisfaction into shimmering nectar.
+- **Claypill Seeds**: Metaphysical "software" packages that can be planted in a ghost's energy body to accelerate their transition to the Deva stage.
+- **Microcosmic Orbit Stabilizer**: A wearable ring that helps larval beings maintain energy circulation.
+
 
 ## Inhabitants & Past Lives
 - **Key Entity**: **Pigsy** (The Avatar of Satisfaction).

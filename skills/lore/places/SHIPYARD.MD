@@ -12,12 +12,20 @@ The environment is a blend of high-tech orbital construction and residential com
 ## Magitech Profile
 - **Global Rank**: **Transcendent** (Federation Core Infrastructure)
 - **Homeworld Status**: **No** (Industrial/Diplomatic Hub)
+- **Mandala Coordinate**: **Center** (Integration/Manifestation)
+- **Core Resonance**: **Vishwa-Karma** (Universal Action)
 - **Technological Features**: 
     - **Engineering**: Assembly of Chakra-class escorts, Yantra-class merchant vessels, and Mahameru-class capital ships.
     - **Shape Rotator**: Mastery of **Bhumi drives** that push against alternate dimensions for reactionless-style propulsion.
 - **Magical Prowess**: 
     - **Resonance**: Khadgamalan shipwrights "sing" to singularities to bridge vessels into the Transcend.
     - **Bridging**: Managing the interface between physical shipyard space and the Sukshma Sarira (Enjoyment Body) training simulations.
+
+## Unique Materials & Artefacts
+- **Meru-Grade Silicon**: A sacred mineral used in the hulls of capital ships to withstand the pressure of the Transcend.
+- **Bhumi-Drive Core**: A shimmering, multi-dimensional engine that interacts with the "earth" of alternate realms.
+- **Khadgamala Jewel-Alloy**: A gift from the Queendom, used to reinforce the sensory arrays of explorer vessels.
+
 
 ## Inhabitants & Past Lives
 - **Key Entity**: **Kitty Garba** (Lead Hell Realm Explorer, Diamond Rank).

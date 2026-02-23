@@ -12,12 +12,19 @@ Debugging these realms involves setting up a **Temenos** (purified field) and a 
 ## Magitech Profile
 - **Global Rank**: **Iron** (Decaying status)
 - **Homeworld Status**: **No** (Fallen Realm)
+- **Mandala Coordinate**: **Below** (Sub-conscious/Causal layers)
+- **Core Resonance**: **Ashuddha** (Impure/Stagnant)
 - **Technological Features**: 
     - **Engineering**: Junk-yard level salvage; rusty fridges and broken slot machines.
     - **Shape Rotator**: Disrupted **Maya Kanchuka** that requires a **Time Slicer** to synchronize.
 - **Magical Prowess**: 
     - **Vibe Aura**: Stagnant, fearful, and isolationist vibes.
     - **Bridging**: The bridge between the "Home Base" (Safe Zone) and the "Fallen Loop" (Danger Zone).
+
+## Unique Materials & Artefacts
+- **The Slot Machine of Infinite Desire**: An Iron-rank trap that generates temporary, hollow gratifications to keep inhabitants looped.
+- **Maya-Kanchuka Scraps**: Shimmering, glitchy fabric that can be used to craft temporary cloaking devices.
+
 
 ## Inhabitants & Past Lives
 - **Key Entity**: The **Asura Ruler** (Authoritarian isolationist).
