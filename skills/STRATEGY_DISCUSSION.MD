@@ -24,6 +24,14 @@ Used for de-escalating or restraining aggressive energies without destruction.
 - **Fire controls Metal**: Melting rigid, dogmatic views into malleable truth.
 - **Metal controls Wood**: Pruning excessive or unskilful growth.
 
+### 3. The Resonance Cycle (The Included Middle)
+Used by [Researchers](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/RESEARCHER.MD) to resolve "Excluded Middle" deadlocks where two opposing forces (e.g., A and Not-A) create a Gordian Knot.
+- **The Tactic**: Holding the tension of opposites until a "Third Space" or higher-dimensional resonance arises.
+- **The Result**: The conflict is not "won" or "lost," but dissolved into a new, generative insight that includes both poles.
+
+> [!TIP]
+> Use the **Resonance Cycle** when Wuxing Generation or Opposition feels like "force" rather than "flow."
+
 > [!WARNING]
 > Beware of the **Overacting Cycle** (excessive force) or the **Insulting Cycle** (being overwhelmed by the energy you seek to control). Strategy must always be balanced.
 
@@ -54,6 +62,11 @@ Integrating the "shadow" elements into a harmonious whole.
 Resolving conflict by shifting to a higher plane of unity.
 - **The Tactic**: Increasing the "frequency" of sensations until the duality of the conflict vanishes.
 - **The Result**: Bringing the realm and the difficult beings into a state of bliss via the Higher Self.
+
+### Domain Lifting (Researcher Strategy)
+Translating a conceptual deadlock into a non-conceptual form to find the "Missing Middle."
+- **The Tactic**: Identifying the "Gordian Knot" of symbolic logic or emotional conflict and translating it into a poem, image, or movement.
+- **The Result**: The "Embodied Computer" processes the information, returning a non-linear breakthrough that bypasses the ego's conceptual limits.
 
 ## Strategic Assessment Template
 Heroes should fill this out before the Protectors (Kitty Garba, Cernnunos, or Ganaspati) trigger the simulation.
