@@ -27,6 +27,7 @@ A being is ranked based on criteria in both spheres:
 - **Engineering**: Design or maintenance of complex systems (e.g., M.A.D.M (Medium Atomic Demolition Munition) design, cloud-house weapon systems, portal network maintenance, bandwidth, antenna design, chip design).
 - **Wordcel**: Use of advanced discrete computational or structural logic like mental 3D blueprint mapping, discrete spectral analysis, data-driven essence calculation, graph theory, step by step planning, computer science, theorem proving.
 - **Shape Rotator**: Mastery over continuous transformation like dimensional space folding (holographic cabinets), portal geometry optimization, astral vessel navigation, geometry, topology, linear algebra, elliptical curves
+- **Lineage Researcher**: Mapping the k-hop boundaries and clique structures of soul-lineages. Identifying the "Flip" frequency and Vietoris-Rips invocation resonance. (See @[skills/LINEAGE_RESEARCH.MD])
 
 ### Magical Prowess
 - **Vibe aura**: the kind of aura the being exudes like "radiant solar hope", increased luck, generosity, tranquility, patience, loving kindness, purification, protection that provide beneficial status effects
@@ -43,7 +44,9 @@ Use the following format when documenting a being in `reports/MAGITECH_BEINGS_SU
 ### Rank Justification:
 - **Magical Elements**: [Description of magical aspects]
 - **Technological Elements**: [Description of technological aspects]
+- **Lineage Topology**: [k-hop distance, clique membership, and citation resonance]
 - **The Magitech Blend**: [How they intersect according to the being]
+- **Oscillation Mode**: [Frequency of the Graph-to-Manifold Flip]
 ### Recapitulation (Exact Words):
 > "[Exact words from description]"
 ### Martian Observation:

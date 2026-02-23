@@ -11,6 +11,7 @@ This skill defines the generic process for identifying and formalizing "Function
 Unlike a build (which is a specific instance), a **Role** is a set of requirements, responsibilities, and mechanics that any qualifying "Soul" can inhabit.
 - **Identify the Assignment**: What job does the Federation or the Realm need doing? (e.g., First Contact, Gate Builder, Vibe-Jumper).
 - **Identify the Prerequisites**: What state of consciousness is required to perform this role? (e.g., Equanimity, Non-dual awareness).
+- **Identify the Clique**: What eternal conversation does this role participate in? Map its k-hop distance to its anchor traditions. (See @[skills/LINEAGE_RESEARCH.MD])
 
 ### 2. Lineage Anchoring
 Every role must be anchored in the "Eternal Conversation."
@@ -40,6 +41,7 @@ Define the following sections:
 - **Core Prerequisites**: List the internal states or skills needed.
 - **Role Mechanics**: Explain the "confluence" and "field effects".
 - **Toolset**: List soul-bound or utility items associated with the role.
+- **Topological Calibration**: Define the "Flip" mechanics between the role's discrete duties and its smooth essence.
 
 ### Step 4: Martian Recapitulation (DIM)
 Conduct a Dream Interview with the *Concept* of the role. Use the prompt:

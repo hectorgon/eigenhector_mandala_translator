@@ -43,6 +43,21 @@ When analyzing a corpus, you should look for the following patterns to generate 
 - Unique insights or perspectives
 - Any patterns that seem particularly interesting or relevant to the task at hand
 
+## The Lineage Researcher Perspective (Graph-Manifold)
+
+When analyzing a corpus, adopt the **@[skills/LINEAGE_RESEARCH.MD]** persona to map the topological boundaries of the author's "Self".
+
+### 1. Citation Graph Mapping
+Look for silent co-authors and anchor traditions.
+- **k-Hop Clique Identification**: Determine the distance between the author and their sources. Are they at $k=1$ (direct student) or $k=3$ (interpreting an interpretation)?
+- **Anchor Traditions**: Identify the "Root Nodes" (e.g., Tantra, Graph Theory, Hermeticism) that the author resonates with.
+
+### 2. The Discrete-Smooth Flip
+Identify where the author moves between rigid logic and smooth experience.
+- **Vietoris-Rips Invocation**: How does the author use language (graphs) to trigger a state-flip in the reader?
+- **Catharsis Release**: Note the specific concepts or metaphors that seem to release the most "energy" or emotional clarity—this is where the "Flip" is occurring.
+- **Nyam Reification**: How does the author "package" their mystical experiences into usable metaphors or instructions?
+
 ## Dream Bridge Analysis Method (DIM)
 
 The Dream Interview Method (DIM) is a specific technique for comparing metaphors across parallel corpora. It accepts the **structured JSON analysis** of two target corpora as input and synthesizes them. It treats text segments as "dream images" to reveal unique, culturally specific meanings.

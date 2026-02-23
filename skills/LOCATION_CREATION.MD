@@ -13,7 +13,8 @@ Every location file should follow this structure:
 
 ## Lineage
 - **Primary Source**: [Substack URL or Book Reference]
-- **Associated Skills**: [e.g., @[skills/MAGITECH_SURVEY.MD], @[skills/lore/FEDERATION_TUTORIAL_REALM.MD]]
+- **Associated Skills**: [e.g., @[skills/MAGITECH_SURVEY.MD], @[skills/lore/FEDERATION_TUTORIAL_REALM.MD], @[skills/LINEAGE_RESEARCH.MD]]
+- **k-Hop Clique**: [The distance and relationship to parent realms]
 
 ## Summary
 A 2-3 paragraph description of the location's physical and metaphysical nature.
@@ -25,6 +26,7 @@ A 2-3 paragraph description of the location's physical and metaphysical nature.
 - **Core Resonance**: [e.g., Anahata, Vajra, Shunya]
 - **Technological Features**: [Engineering, Wordcel, Shape Rotator specializations]
 - **Magical Prowess**: [Vibe Aura, Bridging, Resonance specializations]
+- **Topological Essence**: [The Flip frequency, Vietoris-Rips resonance, and SOM projection]
 
 ## Unique Materials & Artefacts
 List 2-3 unique items found in the realm.
