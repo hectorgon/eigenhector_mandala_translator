@@ -17,7 +17,7 @@ The Universal Mandala provides a "container" for your experience, allowing you t
 
 ### 1. Front: Teacher / Guidance (Wisdom)
 *   **Focus**: Receiving wisdom, transmission, and guidance.
-*   **Suggested Enlightened Beings**: Any beloved teacher, or a personification of Wisdom itself.
+*   **Suggested Enlightened Beings**: Any beloved teacher, or a personification of Wisdom itself from existing traditions.
 *   **Insight**: Visualize them beaming light into your forehead, heart, and throat.
 
 ### 2. Right: Protector / Helper / Healer
@@ -32,7 +32,7 @@ The Universal Mandala provides a "container" for your experience, allowing you t
 
 ### 4. Left: Love / Compassion
 *   **Focus**: Emotional warmth, connection, and unconditional love.
-*   **Suggested Enlightened Beings**: Any beloved pet/friend visualized in their enlightened form.
+*   **Suggested Enlightened Beings**: Any beloved pet/friend visualized in their enlightened form. Or any of the Love / Compassion beings from existing traditions.
 *   **Insight**: Open your heart to the transmission of pure, non-referential love.
 
 ### 5. Below: Enlightened Earth / Groundless Ground
