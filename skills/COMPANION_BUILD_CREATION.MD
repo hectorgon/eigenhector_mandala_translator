@@ -37,7 +37,7 @@ lineage: [Author Name]([Source URL]) → [Concept 1]([Context URL]) → [Concept
 ---
 
 ## Heroes: [Hero/Subject Name] & [Companion/Object Name]
-### Team Role: [Healer/Researcher/Defender/Balancer/Architect] / Companion Class
+### Team Role: [Healer/Researcher/Defender/Balancer/Architect/Lineage Researcher] / Companion Class
 ### Soul Rank: Iron
 
 ### Essence Triad & Confluence:

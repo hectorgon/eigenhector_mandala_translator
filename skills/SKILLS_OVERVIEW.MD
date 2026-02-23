@@ -51,6 +51,16 @@ These skills enable the comparison of different mystical perspectives.
 *   **[Strategy Discussion](STRATEGY_DISCUSSION.MD)**: Framework for planning compassionate interactions within the Tutorial Realm using Wuxing dynamics.
 *   **[Federation Ethics Simulator](lore/FEDERATION_ETHICS_SIM.MD)**: A specialized module of the Tutorial Realm for exploring complex ethical dilemmas from various lineages.
 *   **[Michael Taft UM Starter Mandala](MICHAEL_TAFT_UM_STARTER_MANDALA.MD)**: A starting practice for mystics to learn the Universal Mandala for psychological and spiritual integration.
+*   **[Lineage Researcher Role](lore/roles/LINEAGE_RESEARCHER.MD)**: A specialized role for mapping community boundaries and transition energy between graph and manifold modes.
+
+## 4. Roles & Archetypes
+
+These documents define the functional archetypes that souls can inhabit within the mandala.
+
+*   **[Lineage Researcher](lore/roles/LINEAGE_RESEARCHER.MD)**: Maps citation graphs and Jhanic manifolds.
+*   **[Lifting Researcher](lore/roles/LIFTING_RESEARCHER.MD)**: Focuses on the physical-spiritual intersection of strength and presence.
+*   **[Asura Archaeologist](lore/roles/ASURA_ARCHAEOLOGIST.MD)**: Digs into the forgotten tech and lineages of the Asuric realms.
+*   **[Federation Tourist](lore/roles/FEDERATION_TOURIST.MD)**: A first-contact role for experiencing the Federation's diversity.
 
 ---
 
