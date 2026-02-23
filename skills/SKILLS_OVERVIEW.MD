@@ -50,6 +50,7 @@ These skills enable the comparison of different mystical perspectives.
 *   **[Federation Team Training](lore/FEDERATION_TEAM_TRAINING.MD)**: A practical example of using the Tutorial Realm and Strategy Discussion skills.
 *   **[Strategy Discussion](STRATEGY_DISCUSSION.MD)**: Framework for planning compassionate interactions within the Tutorial Realm using Wuxing dynamics.
 *   **[Federation Ethics Simulator](lore/FEDERATION_ETHICS_SIM.MD)**: A specialized module of the Tutorial Realm for exploring complex ethical dilemmas from various lineages.
+*   **[Michael Taft UM Starter Mandala](MICHAEL_TAFT_UM_STARTER_MANDALA.MD)**: A starting practice for mystics to learn the Universal Mandala for psychological and spiritual integration.
 
 ---
 
