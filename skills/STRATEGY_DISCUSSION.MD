@@ -25,7 +25,7 @@ Used for de-escalating or restraining aggressive energies without destruction.
 - **Metal controls Wood**: Pruning excessive or unskilful growth.
 
 ### 3. The Resonance Cycle (The Included Middle)
-Used by [Researchers](skills/lore/roles/RESEARCHER.MD) to resolve "Excluded Middle" deadlocks where two opposing forces (e.g., A and Not-A) create a Gordian Knot.
+Used by [Researchers](skills/lore/roles/LIFTING_RESEARCHER.MD) to resolve "Excluded Middle" deadlocks where two opposing forces (e.g., A and Not-A) create a Gordian Knot.
 - **The Tactic**: Holding the tension of opposites until a "Third Space" or higher-dimensional resonance arises.
 - **The Result**: The conflict is not "won" or "lost," but dissolved into a new, generative insight that includes both poles.
 

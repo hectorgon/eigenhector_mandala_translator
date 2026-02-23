@@ -5,7 +5,7 @@ lineage: [Hector Yee](https://eigenhector.substack.com/p/taichi-meets-mystical-m
 ---
 
 ## Role Overview
-The **Researcher** is the Federation's expert in "Domain Lifting." When a problem becomes a Gordian Knot of symbolic logic or emotional deadlock, the Researcher translates it into non-conceptual forms—poems, movements, or koans. They facilitate communication between "Conceptual Masters" (engineers, mathematicians) and "Embodied Masters" (Taichi practitioners, healers), ensuring that the "Eternal Conversation" remains fluid and generative.
+The **Lifting Researcher** is the Federation's expert in "Domain Lifting." When a problem becomes a Gordian Knot of symbolic logic or emotional deadlock, the Researcher translates it into non-conceptual forms—poems, movements, or koans. They facilitate communication between "Conceptual Masters" (engineers, mathematicians) and "Embodied Masters" (Taichi practitioners, healers), ensuring that the "Eternal Conversation" remains fluid and generative.
 
 ## Core Prerequisites
 - **Equanimity**: The ability to hold a complex problem without prematurely forcing it into a linear solution.
