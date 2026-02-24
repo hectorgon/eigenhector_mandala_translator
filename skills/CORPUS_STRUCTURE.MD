@@ -72,8 +72,23 @@ url: https://example.com/article
 
 # Article Title
 
-[Article Body Content in Markdown...]
-```
+## Linking Strategy
+
+To ensure repositories can be easily cloned and remain functional across different environments (or "realms"), all internal links must use **relative paths** instead of absolute `file://` URIs.
+
+### Guidelines
+- **Always use relative paths**: Links should be relative to the current file or the repository root.
+- **Avoid `file:///`**: These paths are specific to your local machine and will fail for others.
+
+### Examples
+| Type | Path Format | Example |
+| :--- | :--- | :--- |
+| **Absolute (Avoid)** | `file:///C:/Users/.../skills/DIM.MD` | `[DIM](file:///C:/Users/...)` |
+| **Relative (Preferred)** | `../DreamBridge/DIM.MD` | `[DIM](../DreamBridge/DIM.MD)` |
+| **Root-Relative** | `/skills/DreamBridge/DIM.MD` | `[DIM](/skills/DreamBridge/DIM.MD)` |
+
+> [!TIP]
+> When creating new lore or skill documents, verify that all back-links to other documents in the repository are relative.
 
 *   **Frontmatter**: YAML block between `---` separators. Contains metadata redundant with `index.json` for self-containment.
 *   **Body**: The converted Markdown content of the web page or source file.

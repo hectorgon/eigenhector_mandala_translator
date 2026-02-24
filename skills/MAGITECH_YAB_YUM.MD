@@ -8,12 +8,12 @@ This skill creates a "Magitech Yab Yum" mandala representation by synthesizing d
 ## Workflow
 
 ### 1. The Magitech Survey
-Perform a survey of all beings in the realm instance (which may contain multiple mandalas) using the criteria from [MAGITECH_SURVEY.MD](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/MAGITECH_SURVEY.MD).
+Perform a survey of all beings in the realm instance (which may contain multiple mandalas) using the criteria from [MAGITECH_SURVEY.MD](MAGITECH_SURVEY.MD).
 - **Ranking**: Assign ranks (Normal to Transcendent) based on Engineering, Wordcel/Shape Rotator logic, Vibe Aura, Bridging, and Resonance.
 - **Output**: Save as `reports/MAGITECH_YAB_YUM_SURVEY.MD`.
 
 ### 2. The Jataka Tales
-For each being identified in the survey, generate a Jataka tale following the structure in [JATAKA_TALES.MD](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/JATAKA_TALES.MD).
+For each being identified in the survey, generate a Jataka tale following the structure in [JATAKA_TALES.MD](JATAKA_TALES.MD).
 - **Past Lives**: Treat each being as a past life of the **Avatar of Goodness, Truth, and Beauty**.
 - **Development**: Explicitly show how each life contributes to the perfection of the Trinity.
 - **Output**: Save as `reports/MAGITECH_YAB_YUM_JATAKA.MD`.
@@ -28,7 +28,7 @@ Identify two beings from the survey that represent the ultimate "chiral pairs" o
 - **Practicality**: The dialogue must move quickly from philosophy to specific, practical meditative or structural techniques for the mandala.
 
 ### 4. Thangka Synthesis
-Describe the "Yab-Yum" union of these two beings as a Thangka, integrating their badges of office and mudras as described in [CHIRAL_MIRROR_BOHMIAN_THANGKA.MD](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/CHIRAL_MIRROR_BOHMIAN_THANGKA.MD).
+Describe the "Yab-Yum" union of these two beings as a Thangka, integrating their badges of office and mudras as described in [CHIRAL_MIRROR_BOHMIAN_THANGKA.MD](CHIRAL_MIRROR_BOHMIAN_THANGKA.MD).
 
 - **Output**: Save the dialogue and Thangka description as `reports/MAGITECH_YAB_YUM_DIALOGUE.MD`.
 

@@ -22,7 +22,7 @@ A reflection that flips reality across specific axes. When entities look through
 *   **Compassion / Skillful Means**: The heart's intent vs. The active method of manifestation.
 
 ### 3. The Martian Interviewer (DIM)
-Use the [DIM Method](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/DreamBridge/DIM.MD) to describe entity attributes. Ask "I come from another planet. What is X like?" to avoid projected meanings.
+Use the [DIM Method](DreamBridge/DIM.MD) to describe entity attributes. Ask "I come from another planet. What is X like?" to avoid projected meanings.
 
 ## Entity Attributes
 Describe each entity using these categories, considering how they "flip" through the mirror:

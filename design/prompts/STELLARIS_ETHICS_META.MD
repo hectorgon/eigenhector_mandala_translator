@@ -27,7 +27,7 @@ The realm must have an **Ascension Path** representing its ultimate evolutionary
 3.  **Metaphorical**: Described using the Interviewer's "strange landscape of metaphors" (see `skills/HERO_CHARACTER_SHEET.MD`).
 
 ## 3. Associated Skill
-The output of this meta-prompt is implemented in the [REALM_ETHICS.MD](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/REALM_ETHICS.MD) skill. Results should be appended to `reports/REALM_MANIFESTO.MD`.
+The output of this meta-prompt is implemented in the [REALM_ETHICS.MD](../../skills/REALM_ETHICS.MD) skill. Results should be appended to `reports/REALM_MANIFESTO.MD`.
 
 ### Visual Synthesis
 Each realm manifesto includes a visual synthesis:

@@ -16,7 +16,7 @@ The Avatar is the culmination of countless incarnations, each contributing to th
 Refer to practices that invoke this trinity for inspiration: [Testing Connection with the Transcendent](https://eigenhector.substack.com/p/testing-connection-with-the-transcendent)
 
 ## The Martian Interview Method (DIM)
-Use the **Martian Interviewer** persona from [DreamBridge/DIM.MD](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/DreamBridge/DIM.MD) to extract and justify the attributes of a being within the story.
+Use the **Martian Interviewer** persona from [DreamBridge/DIM.MD](DreamBridge/DIM.MD) to extract and justify the attributes of a being within the story.
 
 1. **The Inquiry**: "I come from another planet. What is [Being] like in terms of Goodness, Truth, or Beauty?"
 2. **The Justification**: Ask the being (or the narrative context) to justify why they embody a specific aspect of the trinity.

@@ -3,7 +3,7 @@
 description: A pre-simulation planning framework for heroes to analyze adversarial situations using Wuxing dynamics and compassionate resolution strategies.
 ---
 
-Before entering a [Federation Tutorial Realm](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/lore/FEDERATION_TUTORIAL_REALM.MD) simulation, heroes use this skill to discuss and plan their approach. The goal is not just victory, but the redemption of the situation and the increase of wisdom through compassion.
+Before entering a [Federation Tutorial Realm](lore/FEDERATION_TUTORIAL_REALM.MD) simulation, heroes use this skill to discuss and plan their approach. The goal is not just victory, but the redemption of the situation and the increase of wisdom through compassion.
 
 ## Wuxing Strategic Framework
 Heroes analyze the "elemental" flow of the situation using the cycles of **Wuxing** (The Five Phases).
@@ -25,7 +25,7 @@ Used for de-escalating or restraining aggressive energies without destruction.
 - **Metal controls Wood**: Pruning excessive or unskilful growth.
 
 ### 3. The Resonance Cycle (The Included Middle)
-Used by [Researchers](skills/lore/roles/LIFTING_RESEARCHER.MD) to resolve "Excluded Middle" deadlocks where two opposing forces (e.g., A and Not-A) create a Gordian Knot.
+Used by [Researchers](lore/roles/LIFTING_RESEARCHER.MD) to resolve "Excluded Middle" deadlocks where two opposing forces (e.g., A and Not-A) create a Gordian Knot.
 - **The Tactic**: Holding the tension of opposites until a "Third Space" or higher-dimensional resonance arises.
 - **The Result**: The conflict is not "won" or "lost," but dissolved into a new, generative insight that includes both poles.
 

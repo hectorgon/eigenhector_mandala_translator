@@ -1,11 +1,11 @@
 # Location: Zhishan Ancestral Hall (The Strategy Hub)
 ---
 description: A reified sacred space within the Sukshma Sarira, modeled after the Yee family's historical hall, acting as a high-fidelity simulation and strategy center.
-lineage: [Yee Family Genealogy](file:///C:/Users/hecto/Downloads/Yee%20Family%20Genealogy.docx.rtf) → [Gutian County, Fujian](https://en.wikipedia.org/wiki/Gutian_County) → [Zhishan Ancestral Hall](skills/lore/places/ZHISHAN_HALL.MD)
+lineage: Yee Family Genealogy → [Gutian County, Fujian](https://en.wikipedia.org/wiki/Gutian_County) → [Zhishan Ancestral Hall](ZHISHAN_HALL.MD)
 ---
 
 ## Summary
-The **Zhishan Ancestral Hall** is the primary training ground for Federation "Fallen Realm Debugger" teams. While it appears as a traditional, well-maintained wooden hall with incense smoke and ancestral tablets, it is secretly a high-dimensional **Scenario Simulator**. Here, [Yee Rang-Pau](skills/lore/characters/YEE_RANG_PAU.MD) guides trainees like Elf and Dwarf through "Safe-Mode" simulations of contaminated realities (Hell Realms, Asura Junkyards).
+The **Zhishan Ancestral Hall** is the primary training ground for Federation "Fallen Realm Debugger" teams. While it appears as a traditional, well-maintained wooden hall with incense smoke and ancestral tablets, it is secretly a high-dimensional **Scenario Simulator**. Here, [Yee Rang-Pau](../characters/YEE_RANG_PAU.MD) guides trainees like Elf and Dwarf through "Safe-Mode" simulations of contaminated realities (Hell Realms, Asura Junkyards).
 
 ## Magitech Profile
 - **Global Rank**: **Diamond** (High-fidelity sanctuary)
@@ -25,7 +25,7 @@ The **Zhishan Ancestral Hall** is the primary training ground for Federation "Fa
 - **Incense of Lineage Clarity**: Special incense that, when inhaled, allows the trainee to temporarily access "Genetic Wisdom" relative to their own heritage.
 
 ## Inhabitants & Overseers
-- **Overseer**: [Yee Rang-Pau (The Ancestral Strategist)](skills/lore/characters/YEE_RANG_PAU.MD)
+- **Overseer**: [Yee Rang-Pau (The Ancestral Strategist)](../characters/YEE_RANG_PAU.MD)
 - **Protectors**: **Ancestral Ganas** (manifesting as traditional "Stone Lions" that can animate to defend the hall).
 
 ## Ethics & Training (The Hall's Purpose)

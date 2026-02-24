@@ -62,6 +62,12 @@ These documents define the functional archetypes that souls can inhabit within t
 *   **[Asura Archaeologist](lore/roles/ASURA_ARCHAEOLOGIST.MD)**: Digs into the forgotten tech and lineages of the Asuric realms.
 *   **[Federation Tourist](lore/roles/FEDERATION_TOURIST.MD)**: A first-contact role for experiencing the Federation's diversity.
 
+## Style Guidelines
+
+To ensure the repository remains portable and collaborative:
+- **Relative Linking**: All internal links between documents must be relative. Do not use absolute `file://` paths. See [Corpus Structure](CORPUS_STRUCTURE.MD#linking-strategy) for details.
+- **Lineage Preservation**: Always cite the source or lineage of a skill or lore element.
+
 ---
 
 ## Supporting Tools
