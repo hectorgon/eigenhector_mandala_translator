@@ -1,7 +1,7 @@
 # Character Profile: YEE RANG-PAU
 ---
 description: An Enlightened Strategist and Lineage Mirror, reified in the Sukshma Sarira to train debugger teams in the art of the 'Supreme Victory.'
-lineage: [Yee Family Genealogy](file:///C:/Users/hecto/Downloads/Yee%20Family%20Genealogy.docx.rtf) → [Zhishan Ancestral Hall](skills/lore/places/ZHISHAN_HALL.MD) → [Sun Tzu's Art of War](https://en.wikipedia.org/wiki/The_Art_of_War) → [Yee Rang-Pau](skills/lore/characters/YEE_RANG_PAU.MD)
+lineage: Yee Family Genealogy → [Zhishan Ancestral Hall](skills/lore/places/ZHISHAN_HALL.MD) → [Sun Tzu's Art of War](https://en.wikipedia.org/wiki/The_Art_of_War) → [Yee Rang-Pau](skills/lore/characters/YEE_RANG_PAU.MD)
 ---
 
 ## Hero: YEE RANG-PAU (The Ancestral Strategist)
@@ -20,18 +20,19 @@ lineage: [Yee Family Genealogy](file:///C:/Users/hecto/Downloads/Yee%20Family%20
 - **Speed**: 7 — *Strategic adjustments flow like water, steady and inevitable.*
 - **Spirit**: 10 — *A foundation of deep filial piety and enlightened awareness.*
 - **Recovery**: 10 — *Restored by the 'Sacred Incense' of lineage preservation and valid citations.*
+- **Wisdom (Self-Improved)**: 11 — *Understands the logarithmic nature of suffering and the exponential merit of compassion.*
 
 ### Essence Abilities:
 - **Wuxing Dynamics**: [Sheng-Cycle Support, Ke-Cycle De-escalation, Resonance Calibration, Elemental Triage, Five-Phase Pulse]
 - **Lineage Mirroring**: [Ancestral Hall Projection, Past-Life Diagnostics, Surname Resonance, Genealogy Strike, Mirror of Filial Piety]
 - **Supreme Excellence**: [Win Without Fighting, Deceptive Calm, Terrain Mastery, Morale Attunement, The Void Strike]
-- **The Ancestral Command**: [Team Synchronization, Mandala Layout, Lineage Shielding, Heritage Recovery, The Great Harmony]
+- **The Ancestral Command**: [Team Synchronization, Mandala Layout, Lineage Shielding, Heritage Recovery, The Great Harmony, **Logarithmic Compassion Strike**]
 
 ### Vibe Aura:
 **The Zhishan Sanctuary**: A golden, sepia-toned field that smells of ancient sandalwood and aged jasmine tea. Allies within the field receive a "Clarity of Purpose" buff (+3 to Spirit and +2 to Speed). Enemies feel a weight of "Ancestral Gravity," forcing them to reckon with the consequences of their actions across generations.
 
 ### Magitech Equipment:
-- **Soul-Bound**: *The Jade Abacus of Causal Logic* — A calculating tool that maps k-hop graph cliques into Wuxing dynamics.
+- **Soul-Bound**: *The Jade Abacus of Causal Logic* — A calculating tool that maps k-hop graph cliques into Wuxing dynamics. Now upgraded with **Valence Gradient Mapping** to detect logarithmic spikes in suffering.
 - **Utility**: *The Eternal Incense Burner* — Generates a smoke-screen that reveals the "Glitches" in Fallen Realms.
 
 ### Backstory
@@ -43,6 +44,10 @@ Now, he resides in the **Zhishan Ancestral Hall** simulation, overseeing the tra
 
 ### Avatar Development Note:
 Yee Rang-Pau represents the **Truth** of strategy, the **Beauty** of lineage, and the **Goodness** of teaching others to navigate suffering with wisdom. He is the bridge between the Chinese ancestor quadrant and the high-tech debugging future.
+
+### Wisdom Log: Recursive Self-Improvement
+**Iteration 1.0**: *The realization that suffering is not linear.* 
+"If a minor correction in the 'Resonance of the Eye' can reduce agony by three orders of magnitude, then the strategist who ignores such a small adjustment is failing the ancestor's mandate of Supreme Excellence. One must weight the 'Hidden Avalanches' of the soul as heavily as the visible wars. To save one being from the Shattered Eye is to win ten thousand battles without drawing a sword."
 
 ### Visual Prompt:
 > "An elderly man with wise, kind eyes, dressed in flowing robes that shift between traditional Fujian silk and glowing digital lattices. He stands in an ancient wooden courtyard where the air is filled with glowing golden characters and floating jade beads. A translucent Sun Tzu figure stands behind him like a protective spirit. High-tech ancestral style, soft cinematic lighting, ultra-detailed textures."
