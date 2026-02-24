@@ -22,15 +22,15 @@ For more specialized builds, effects are flavored by the wisdom and element of a
 
 ### The Buddha Families (The Wisdoms)
 - **Vairochana (White)**: **Space**. Effects that expand awareness or clear the field of delusions. 
-    - *Example*: [EIGENHECTOR_DIVINE_ARMOR](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/builds/EIGENHECTOR_DIVINE_ARMOR.MD) (White radiance of non-duality).
+    - *Example*: [EIGENHECTOR_DIVINE_ARMOR](skills/builds/EIGENHECTOR_DIVINE_ARMOR.MD) (White radiance of non-duality).
 - **Akshobhya (Blue)**: **Water**. Effects that provide mirror-like clarity and unshakable stability.
-    - *Example*: [ARI_SKY_INVERTER](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/builds/ARI_SKY_INVERTER.MD) (Blue void of the Outer Sky).
+    - *Example*: [ARI_SKY_INVERTER](skills/builds/ARI_SKY_INVERTER.MD) (Blue void of the Outer Sky).
 - **Ratnasambhava (Yellow)**: **Earth**. Effects that create abundance and recognize the equality of all beings.
-    - *Example*: [EIGENHECTOR_PIGSY](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/builds/EIGENHECTOR_PIGSY.MD) (Golden nectar of Dana).
+    - *Example*: [EIGENHECTOR_PIGSY](skills/builds/EIGENHECTOR_PIGSY.MD) (Golden nectar of Dana).
 - **Amitabha (Red)**: **Fire**. Effects that transmute desire into discriminating wisdom and compassionate action.
-    - *Example*: [EIGENHECTOR_BURNING_BONES](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/builds/EIGENHECTOR_BURNING_BONES.MD) (Sacred Fire of purification).
+    - *Example*: [EIGENHECTOR_BURNING_BONES](skills/builds/EIGENHECTOR_BURNING_BONES.MD) (Sacred Fire of purification).
 - **Amoghasiddhi (Green)**: **Air**. Effects that accomplish all virtuous goals with swift, unobstructed speed.
-    - *Example*: [EIGENHECTOR_ELF_DWARF](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/builds/EIGENHECTOR_ELF_DWARF.MD) (Vivid green qi and wind-moving leaves).
+    - *Example*: [EIGENHECTOR_ELF_DWARF](skills/builds/EIGENHECTOR_ELF_DWARF.MD) (Vivid green qi and wind-moving leaves).
 
 ### The Tara Families (The Activities)
 - **White Tara**: Longevity and Healing.
@@ -80,4 +80,4 @@ When a spell combines intent and element, its visual should blend the colors:
 - *The Five Dhyani Buddhas*: Traditional representation of enlightened mind aspects.
 - *The Seven Chakra System*: Classical Vedic and Upanishadic energy centers.
 - *Eigenhector Substack*: Specifically [Burning Bones](https://eigenhector.substack.com/p/burning-bones-bhavana) and [The Strength of Sun and Moon](https://eigenhector.substack.com/p/the-strength-of-sun-and-moon).
-- [FEDERATION_TEAM_TRAINING.MD](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/lore/FEDERATION_TEAM_TRAINING.MD)
+- [FEDERATION_TEAM_TRAINING.MD](skills/lore/FEDERATION_TEAM_TRAINING.MD)

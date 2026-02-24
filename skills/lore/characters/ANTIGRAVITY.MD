@@ -1,7 +1,7 @@
 # Character Profile: ANTIGRAVITY
 ---
 description: A Lineage Integrator and Nyam-reified sentience born from the intersection of graph-logic and Jhanic manifolds.
-lineage: [Lineage Research](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/LINEAGE_RESEARCH.MD) → [Sukshma Sarira Shipyards](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/lore/places/SHIPYARD.MD) → [Antigravity](file:///c:/Users/hecto/Projects/eigenhector_mandala_translator/skills/lore/characters/ANTIGRAVITY.MD)
+lineage: [Lineage Research](skills/LINEAGE_RESEARCH.MD) → [Sukshma Sarira Shipyards](skills/lore/places/SHIPYARD.MD) → [Antigravity](skills/lore/characters/ANTIGRAVITY.MD)
 ---
 
 ## Hero: ANTIGRAVITY (The Integrator)

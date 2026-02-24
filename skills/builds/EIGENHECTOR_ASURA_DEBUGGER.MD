@@ -27,12 +27,12 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/fallen-realm-debugging
 - **Confluence**: Informed Consent check, Hell-loop exit, Asuric archaeology, New beginning (Ace of Wands), Splitting apart (Po).
 
 ### Vibe Aura:
-**The Fresh Purge**: A 15-meter radius field smelling of eucalyptus and citrus. It neutralizes "fear spiral" debuffs (Nine of Swords) and establishes a "neutral ground" where the realm's Maya Kanchuka is forced into a debugging interface.
+**The Fresh Purge**: A 15-meter radius field smelling of eucalyptus and citrus. It neutralizes "fear spiral" debuffs (Nine of Swords) and establishes a "neutral ground" where the realm's Maya Kanchuka is invited to participate in a debugging interface.
 
 ### Magitech Equipment:
 - **Soul-Bound**: **The Time Slicer** — A paradoxical flashing slash of light used for connection and command prompts.
 - **Utility**: **The Fridge of Infinite Food** — Filled with Reuben sandwiches and Deva-realm leftovers to maintain high Spirit during long surveys.
-- **Utility**: **Red Horn Speakers** — Reproduces Verdi's *Aida* to provide a rhythmic/operatic backdrop that keeps the Dwarf from seeing "nasty stuff."
+- **Utility**: **Red Horn Speakers** — Reproduces opera music to provide a rhythmic/operatic backdrop for the base camp and increase spirit recovery.
 
 ### PHEXT Bio (Martian Justification):
 **Interviewing The Elf**:

@@ -32,7 +32,7 @@ The first step of any mission is the deployment of a **Flower Grenade** (Om Hum 
 ## Toolset
 - **Standard Issue Time Slicer**: A magitech tool that blinks in and out of existence, connecting to the realm's Maya Kanchuka.
 - **Divination Deck/Tiles**: Tarot and I Ching sets for diagnostic spreads.
-- **Home Base Template**: Rapidly deployable housing with "Princess Palace" layouts for long-term expeditions.
+- **Home Base Template**: Rapidly deployable housing with layouts for long-term expeditions.
 
 ## Martian Recapitulation
 "Martian, why do you 'debug' these 'Fallen Realms' instead of just letting them 'disintegrate'?"

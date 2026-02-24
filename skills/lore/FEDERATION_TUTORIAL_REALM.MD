@@ -3,7 +3,7 @@
 description: Generates simulated astral training environments where newbie yogis face adversarial but compassionate illusions to gain wisdom.
 ---
 
-The **Federation Tutorial Realm** is an artificial astral space (Sukshma Sarira) designed by the Federation to train initiate yogis. It utilizes advanced magitech to simulate various planes of existence, allowing students to test their energy bodies and cognitive discipline in a safe, controlled environment.
+The **Federation Tutorial Realm** is an artificial astral space designed by the Federation to train initiate yogis. It utilizes advanced magitech to simulate various planes of existence, allowing students to test their energy bodies and cognitive discipline in a safe, controlled environment.
 
 ## The Three Protectors
 The realm is overseen by three high-ranking protectors who ensure the safety and spiritual growth of all participants.

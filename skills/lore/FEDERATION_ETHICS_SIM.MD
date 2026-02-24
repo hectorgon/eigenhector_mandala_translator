@@ -98,7 +98,7 @@ The **Federation Ethics Simulator** is a specialized module of the @[skills/lore
 - **Scenario**: A powerful earthly ruler is asked by the heavenly gods to step down for the sake of a greater, divine stability. He must choose between his duty to his own domain and the harmony of the entire realm.
 - **Lineage URL**: [The Ceding of the Land (Kuni-yuzuri)](https://en.wikipedia.org/wiki/Kuni-yuzuri)
 
-### 9. Earth-1 (Human News / Modern) Lineage
+### 9. Urth (Human News / Modern) Lineage
 
 #### **The AI Alignment Paradox**
 - **Theme**: Efficiency vs. Human Bias
