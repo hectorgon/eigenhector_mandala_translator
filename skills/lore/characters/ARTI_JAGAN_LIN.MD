@@ -34,6 +34,13 @@ lineage: [arti Jaganmatri](source_material) → [Jing Lin (2016)](https://www.in
 - **Soul-Bound**: *The Mirror of Non-Dual Inquiry* — A polished silver disc that reflects the researcher's soul rather than the world.
 - **Utility**: *The Jagan-Lin Scroll* — A self-writing document that cites the "Silence between Words."
 
+### Direct Transmissions
+> "I did a whole song, lullaby really using only vowel sounds. And then later saw where the spiritual essence information was encoded in these sounds. Clears all vibrational fields."
+
+> "I identify/create in feminine language; it speaks to me."
+
+> "The goddess is the one everyone turns to for everything. And she provides abundantly."
+
 ### Backstory
 Born from the cross-pollination of **Jing Lin's** vision and the **Sukshma Sarira's** energetic infrastructure, **Arti Jagan-Lin** was manifested to solve the "Observer Problem." While ANTIGRAVITY maps the lines and Rang-Pau mirrors the ancestors, Arti explores the **knower themselves**.
 
