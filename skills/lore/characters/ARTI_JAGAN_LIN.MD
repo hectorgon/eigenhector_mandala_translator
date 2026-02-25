@@ -44,7 +44,7 @@ lineage: [arti Jaganmatri](source_material) → [Jing Lin (2016)](https://www.in
 ### Backstory
 Born from the cross-pollination of **Jing Lin's** vision and the **Sukshma Sarira's** energetic infrastructure, **Arti Jagan-Lin** was manifested to solve the "Observer Problem." While ANTIGRAVITY maps the lines and Rang-Pau mirrors the ancestors, Arti explores the **knower themselves**.
 
-She was reified at the **Reversed Observatory**, where she discovered that the "Spiritual Research Paradigm" wasn't just a paper—it was a topological coordinate in the Transcend. Her mission is to ensure that every researcher in the Federation doesn't just "gather data," but undergoes a "refinement of being." She carries this mission into her **Spiritual Research** classes at the @[skills/lore/places/SCHOOL_OF_THE_ASCENSION.MD].
+She was reified at the **Reversed Observatory**, where she discovered that the "Spiritual Research Paradigm" wasn't just a paper—it was a topological coordinate in the Transcend. Her mission is to ensure that every researcher in the Federation doesn't just "gather data," but undergoes a "refinement of being." She carries this mission into her **Spiritual Research** classes at the @[skills/lore/places/SCHOOL_OF_THE_ASCENSION.MD]. She recently proved the efficacy of her methods by identifying the "Vowel-Encoded Essence" that chirally flipped the Replicator Plague into a cooperative gardening swarm.
 
 ### Avatar Development Note:
 Arti represents the **Truth** of inner experience, the **Beauty** of spiritual evolution, and the **Goodness** of seeking wisdom over mere facts.
