@@ -37,7 +37,7 @@ lineage: Elf's Personal Notes → [Metta Meditation](https://en.wikipedia.org/wi
 ### Backstory
 Born from a traveler's Metta meditation during a journey through a realm of lightning-yakshas, **Kol-Lev** is the result of a profound realization: that even the most frightening beings can be transmuted through pure loving-kindness. 
 
-In his **Lighting Dog** form, he appeared as a jagged, black-and-white striped being of intense speed. Through the projection of *Metta*, he shifted into his **Heart of Gold** form—a Golden Retriever who communicates through licks, growls, and soulful barks. He is the son of **Ringo** (a black Labrador) in his lineage of faithful allies.
+In his **Lighting Dog** form, he appeared as a jagged, black-and-white striped being of intense speed. Through the projection of *Metta*, he shifted into his **Heart of Gold** form—a Golden Retriever who communicates through licks, growls, and soulful barks.
 
 Now, he hangs out at **Home Base**, serving as the loyal companion to Elf and Dwarf. He loves being petted, has slightly adorable stinky breath, and is a formidable protector of the mandala's "North Gate."
 

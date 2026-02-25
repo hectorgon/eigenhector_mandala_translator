@@ -28,7 +28,7 @@ lineage: [Miaoshan Legend](https://en.wikipedia.org/wiki/Miao_Shan) → [Guanyin
 - **The Ang Bao Buffet**: [Luck Infusion, Spiritual Protection, Birthday Blessing, Generous Packet, Godmother's Eye]. A constant aura of support for "heroes in training."
 
 ### Vibe Aura:
-**The Pungent Garden of Mercy**: A scent of Laksa leaves, eucalyptus, and "Om Mani Padme Hum" vibrations. To allies, she provides the "Godmother's Protection" (+3 to Spirit/Recovery). She treats all trainees as her "nieces and nephews," offering spiritual advice that feels like a warm hug and a firm reminder to eat more.
+**The Pungent Garden of Mercy**: A scent of Laksa leaves, pandan, lemongrass, eucalyptus, and "Om Mani Padme Hum" vibrations. To allies, she provides the "Godmother's Protection" (+3 to Spirit/Recovery). She treats all trainees as her "nieces and nephews," offering spiritual advice that feels like a warm hug and a firm reminder to eat more.
 
 ### Magitech Equipment:
 - **The Thousand-Fold Tupperware**: A magic container that can hold infinite amounts of leftovers/comfort food.
@@ -36,7 +36,7 @@ lineage: [Miaoshan Legend](https://en.wikipedia.org/wiki/Miao_Shan) → [Guanyin
 - **The Fish Head Insight**: A ceremonial Teochew fish head. By "sucking the eyeballs," Auntie sees through the eyes of the *I Ching* to find clarity in the chaotic flux of the South Seas. (Reference: *I Ching Hexagram 61: Inner Truth - The Pig and the Fish*).
 
 ### Backstory
-Auntie Guan Yin is a long-time friend of Elf’s mother, a staple of the Singaporean social lattice who happens to be an ancient celestial being. When she isn't playing mahjong or gossiping (kindly!) about the latest realm dramas, she is a fierce protector of those suffering in the "fear spirals." She joined the expedition teams at **Home Base** to ensure the "nephews" (trainees) are well-fed and spiritually balanced. 
+Auntie Guan Yin is a long-time friend of Elf’s mother, a staple of the social lattice who happens to be an ancient celestial being. When she isn't playing mahjong or gossiping (kindly!) about the latest realm dramas, she is a fierce protector of those suffering in the "fear spirals." She joined the expedition teams at **Home Base** to ensure the "nephews" (trainees) are well-fed and spiritually balanced. 
 
 She speaks with a gentle Teochew lilt and is known for her "Past Life Debugging" sessions, where she helps inhabitants trace their lineage back to the **River of Worlds** to heal ancient wounds.
 
@@ -51,4 +51,4 @@ Auntie Guan Yin represents the **Goodness** of maternal care, the **Beauty** of 
 5. [Bodhisattva of Compassion (John Blofeld)](https://www.goodreads.com/book/show/369150.Bodhisattva_of_Compassion) - A classic exploration of the mystical tradition.
 
 ### Visual Prompt:
-> "A kind-faced Singaporean Auntie with silver-streaked hair in a jade-green samfoo, sitting at a mahjong table made of glowing blue circuit-lines. Beside her is a bowl of Teochew muay and a steam-basket of roast duck. Behind her, a circular garden altar with red incense smoke rising in the shape of a lotus. Her hands are elegantly poised, one holding a mahjong tile, the other a jar of chili sauce. Cinematic lighting, mixing Singaporean coffee-shop aesthetics with high-tech Buddhist thangka style."
+> "A kind-faced Singaporean Auntie with silver-streaked hair in a jade-green cheongsam, sitting at a mahjong table made of glowing blue circuit-lines. Beside her is a bowl of Teochew muay and a bowl of buah keluak. Behind her, a circular garden altar with red incense smoke rising in the shape of a lotus. Her hands are elegantly poised, one holding a mahjong tile, the other a jar of chili sauce. Cinematic lighting, mixing Singaporean kopitiam aesthetics with high-tech Buddhist thangka style."

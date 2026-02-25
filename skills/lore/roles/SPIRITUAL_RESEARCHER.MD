@@ -1,7 +1,7 @@
 # Research Role: Spiritual Researcher
 ---
 description: A specialist in the "Reversal of Inquiry," where the pursuit of knowledge is a catalyst for the refinement of the soul.
-lineage: [arti Jaganmatri](material_supplied) → [Jing Lin: Introduction to SRP (2016)](https://www.infoagepub.com/products/Toward-a-Spiritual-Research-Paradigm) → [Spiritual Research Paradigm Chart](https://www.infoagepub.com/products/Toward-a-Spiritual-Research-Paradigm)
+lineage: [Aarti Jaganmatri](material_supplied) → [Jing Lin: Introduction to SRP (2016)](https://www.infoagepub.com/products/Toward-a-Spiritual-Research-Paradigm) → [Spiritual Research Paradigm Chart](https://www.infoagepub.com/products/Toward-a-Spiritual-Research-Paradigm)
 ---
 
 > "Do not look at the star to see the star. Look at the star to see the light that is looking. In the Spiritual Research Paradigm, the data is a ghost; the wisdom is the bone." — *The Spiritual Researcher*
