@@ -1,0 +1,48 @@
+# Location: Home Base
+
+## Lineage
+- **Primary Source**: [Fallen Realm Debugging : Asura Archaeology](https://eigenhector.substack.com/p/fallen-realm-debugging-asura-archaeology)
+- **Associated Skills**: @[skills/lore/FEDERATION_TUTORIAL_REALM.MD], @[skills/lore/characters/KOL_LEV.MD]
+- **k-Hop Clique**: Connected to any realm via **Realm Gate**; 1-hop from **North Gate** of the Federation.
+
+## Summary
+**Home Base** is a portable, rapidly deployable sanctuary designed by **Dwarf** for Federation expedition teams. It is a "home away from home" that follows Elf and Dwarf across the River of Worlds and into Fallen Realms. Established within a **Temenos** field, Home Base provides safety, nourishment, and a stable environment for debugging complex reality loops.
+
+## Magitech Profile
+- **Global Rank**: **Silver** (High-fidelity portable environment)
+- **Homeworld Status**: **No** (Mobile Instance)
+- **Mandala Coordinate**: **Center** (Safe Zone/Home)
+- **Core Resonance**: **Shanti-Temenos** (Peaceful Sanctum)
+- **Technological Features**: 
+    - **Template Unpacking**: Rapid construction from pre-designed layouts (e.g., "Princess Palace").
+    - **Defensive Turrets**: Static perimeter defenses at the four corners of the Temenos.
+    - **Time Slicer Integration**: Central hub for reality-debugging tools.
+- **Magical Prowess**: 
+    - **Flower Grenade Deployment**: Casting a blue rose to instantly purify a circular area with citrus/eucalyptus vibrations.
+    - **Temenos Field**: A golden-walled perimeter impenetrable to local "fear spirals."
+
+## Unique Materials & Artefacts
+- **Fridge of Infinite Food**: A soul-bound appliance stocked with delicacies from a thousand worlds (e.g., New York-style Reubens).
+- **Antique Slot Machine**: A teal-and-gold wooden relic that dispenses local tokens for pre-singularity currency needs.
+- **Ornate Horned Speakers**: Red speakers that faithfully reproduce high-fidelity vibrations, even in decaying realms.
+- **The Coffee Station**: A sacred corner where "second cups" are brewed to enable strategic cognitive function.
+- **The Magitech Energy Pavilion (Pool Area)**:
+    - **Crystalline Solar Canopies**: Shifting, iridescent glass arrays over the lounge area that hum with the frequency of captured starlight.
+    - **Crocus Wind Sculptures**: A kinetic garden of metallic flowers that spin in "vibration-rich" drafts.
+    - **The Violet Sentinel**: A central windmill shaped like a giant **purple crocus flower**, its petals serving as airfoils that draw power from the local noosphere.
+    - **Temenos Pool**: A sapphire-blue basin of liquid serenity, reflecting the stars of the Federation even in dark realms.
+
+## Inhabitants & Past Lives
+- **Residents**: 
+    - **Elf & Dwarf**: The core expedition team.
+    - **Kol-Lev**: The faithful protector and "Heart of Gold" who maintains the vibe.
+- **Avatar Potential**: Home Base represents the **Truth** of safety, the **Beauty** of comfort, and the **Goodness** of a stable foundation during chaotic work.
+
+## Ethics & Dharma-Sim
+- **Primary Theme**: **Hospitality & Standard of Care**
+- **Ethical Dilemma**: Maintaining a high-fidelity "Federation Standard" vibration inside while the outside world disintegrates. The challenge is to offer the "Ace of Wands" (new opportunity) without imposing Federation culture on inhabitants who have not given informed consent.
+
+## Visual Synthesis (Thangka Prompt)
+- **Atmosphere**: A brilliant golden square of light standing in a dark, entropic landscape (like a junk yard), smelling of citrus and coffee.
+- **Symbols**: Four golden arches at the cardinal directions; a blue rose blooming in the center of the floor. A shimmering outdoor pavilion featuring a sapphire pool, crystalline solar tiles, and kinetic purple crocus windmills spinning in a prismatic wind.
+- **Style**: Cozy Magitech Thangka; interior warmth and advanced energy aesthetics contrasting with exterior "Asura-punk" decay.
