@@ -30,11 +30,17 @@
     - **Crystalline Solar Canopies**: Shifting, iridescent glass arrays over the lounge area that hum with the frequency of captured starlight.
     - **Crocus Wind Sculptures**: A kinetic garden of metallic flowers that spin in "vibration-rich" drafts.
     - **The Violet Sentinel**: A central windmill shaped like a giant **purple crocus flower**, its petals serving as airfoils that draw power from the local noosphere.
+    - **The Western Garden Altar (Guan Yin's Altar)**:
+        - **Structure**: A large circular planter in the western garden area, functioning as a working altar.
+        - **Mechanism**: Responds to red incense (99 Ranch) and the "Om Mani Padme Hum" mantra.
+        - **Lineage**: Inspired by Josephine McCarthy’s "Magic North Gate Interior" and the "Circle of Life and Death in the Garden Microcosm".
+        - **Function**: A portal for **Past Life Debugging** and ancestral communion, allowing for the tracing of Jataka tales and lineage integration.
     - **Temenos Pool**: A sapphire-blue basin of liquid serenity, reflecting the stars of the Federation even in dark realms.
 
 ## Inhabitants & Past Lives
 - **Residents**: 
     - **Elf & Dwarf**: The core expedition team.
+    - **Auntie Guan Yin**: The compassionate godmother and spiritual counselor of Teochew descent.
     - **Kol-Lev**: The faithful protector and "Heart of Gold" who maintains the vibe.
 - **Avatar Potential**: Home Base represents the **Truth** of safety, the **Beauty** of comfort, and the **Goodness** of a stable foundation during chaotic work.
 
