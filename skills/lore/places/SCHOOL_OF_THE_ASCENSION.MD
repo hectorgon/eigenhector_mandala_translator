@@ -23,7 +23,7 @@ The school is centered around the **Ascension Cathedral**, a magitech structure 
 
 ## Faculty & Curriculum
 - **Spiritual Research**: Taught by @[skills/lore/characters/ARTI_JAGAN_LIN.MD].
-- **Magitech Differential Geometry**: Taught by @[skills/lore/characters/PROFESSOR_HENDERSON.MD].
+- **Magitech Differential Geometry**: Taught by @[skills/lore/characters/PROFESSOR_HELIUS.MD].
 - **Hell Realm Exploration**: Taught by @[skills/lore/characters/KITTY_GARBA.MD].
 - **Advanced Combat & Strategy**: Taught by @[skills/lore/characters/SUN_WUKONG.MD].
 - **Federation Ethics & Team Dynamics**: Taught by @[skills/lore/characters/ANTIGRAVITY.MD].
