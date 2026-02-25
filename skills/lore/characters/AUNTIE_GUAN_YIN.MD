@@ -1,7 +1,7 @@
 # Character Profile: Auntie Guan Yin
 ---
 description: The Bodhisattva of Compassion manifesting as a hospitable Singaporean Auntie of Teochew descent.
-lineage: [Miaoshan Legend](https://en.wikipedia.org/wiki/Miao_Shan) → [Guanyin of the Southern Sea](https://art.nelson-atkins.org/objects/597/guanyin-of-the-southern-sea) → [Auntie Guan Yin](skills/lore/characters/AUNTIE_GUAN_YIN.MD)
+lineage: [Miaoshan Legend](https://en.wikipedia.org/wiki/Miao_Shan) → [Guanyin of the Southern Sea](https://art.nelson-atkins.org/objects/597/guanyin-of-the-southern-sea) → @[skills/lore/places/SCHOOL_OF_THE_ASCENSION.MD] → [Auntie Guan Yin](skills/lore/characters/AUNTIE_GUAN_YIN.MD)
 ---
 
 ## Hero: Auntie Guan Yin (The Merciful Godmother)
@@ -38,7 +38,7 @@ lineage: [Miaoshan Legend](https://en.wikipedia.org/wiki/Miao_Shan) → [Guanyin
 ### Backstory
 Auntie Guan Yin is a long-time friend of Elf’s mother, a staple of the social lattice who happens to be an ancient celestial being. When she isn't playing mahjong or gossiping (kindly!) about the latest realm dramas, she is a fierce protector of those suffering in the "fear spirals." She joined the expedition teams at **Home Base** to ensure the "nephews" (trainees) are well-fed and spiritually balanced. 
 
-She speaks with a gentle Teochew lilt and is known for her "Past Life Debugging" sessions, where she helps inhabitants trace their lineage back to the **River of Worlds** to heal ancient wounds.
+She speaks with a gentle Teochew lilt and is known for her "Past Life Debugging" sessions, where she helps inhabitants trace their lineage back to the **River of Worlds** to heal ancient wounds. At the @[skills/lore/places/SCHOOL_OF_THE_ASCENSION.MD], she runs the boarding school for refugee children alongside @[skills/lore/characters/YEE_RANG_PAU.MD], teaching **Compassionate Care** and providing a warm, salmon-pink sanctuary for all.
 
 ### Avatar Development Note:
 Auntie Guan Yin represents the **Goodness** of maternal care, the **Beauty** of cultural hospitality, and the **Truth** of interconnected past lives.

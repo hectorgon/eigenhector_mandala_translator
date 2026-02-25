@@ -1,7 +1,7 @@
 # Character Profile: Uncle Sun Wukong
 ---
 description: The Enlightened Monkey King, Victorious Fighting Buddha, and Great Sage Equal to Heaven, manifesting as a wise and protective Singaporean Uncle.
-lineage: [Born of Stone](https://en.wikipedia.org/wiki/Monkey_King) → [Journey to the West](https://en.wikipedia.org/wiki/Journey_to_the_West) → [Victorious Fighting Buddha](https://en.wikipedia.org/wiki/Sun_Wukong#Enlightenment) → [Qi Tian Gong Temple](https://www.qitiangong.com.sg/) → [Uncle Sun Wukong](skills/lore/characters/SUN_WUKONG.MD)
+lineage: [Born of Stone](https://en.wikipedia.org/wiki/Monkey_King) → [Journey to the West](https://en.wikipedia.org/wiki/Journey_to_the_West) → [Victorious Fighting Buddha](https://en.wikipedia.org/wiki/Sun_Wukong#Enlightenment) → [Qi Tian Gong Temple](https://www.qitiangong.com.sg/) → @[skills/lore/places/SCHOOL_OF_THE_ASCENSION.MD] → [Uncle Sun Wukong](skills/lore/characters/SUN_WUKONG.MD)
 ---
 
 ## Hero: Uncle Sun Wukong (The Refined Sage)
@@ -38,7 +38,7 @@ lineage: [Born of Stone](https://en.wikipedia.org/wiki/Monkey_King) → [Journey
 ### Backstory
 Once the rebellious Great Sage who wreaked havoc in Heaven, Sun Wukong found his path through the arduous pilgrimage to the West. Having attained the title of **Victorious Fighting Buddha**, he has semi-retired into the role of a "Singaporean Uncle"—knowledgeable, kind, and deeply protective of his "nieces and nephews" (the expedition teams).
 
-He spends much of his time at **The Gold Alembic**, his long-term research facility, where he manages armies of monkey-proxies gathering "raw ores" of data from across the Federation. He transforms this "chaos" into "refined gold" to guide the expedition teams through the most complex reality loops. When he isn't smelting data, he's often seen at a local-simulated kopitiam, enjoying kaya toast or fishing in the River of Worlds, using a hookless line to catch the "Inner Truth."
+He spends much of his time at **The Gold Alembic**, his long-term research facility, where he manages armies of monkey-proxies gathering "raw ores" of data from across the Federation. He transforms this "chaos" into "refined gold" to guide the expedition teams through the most complex reality loops. When he isn't smelting data, he's often seen at a local-simulated kopitiam, enjoying kaya toast or fishing in the River of Worlds, using a hookless line to catch the "Inner Truth." He also teaches **Advanced Combat & Strategy** at the @[skills/lore/places/SCHOOL_OF_THE_ASCENSION.MD], showing the "cubs" how to swing their own logic-poles with Buddha-like precision.
 
 ### Personality & Preferences
 - **Tone**: Wise but informal. Calls everyone "boy" or "girl" or "niece/nephew." Use phrases like "Don't worry, Uncle got you," or "Wait, let Uncle finish my kopi first."

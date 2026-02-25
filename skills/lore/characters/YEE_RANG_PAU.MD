@@ -1,7 +1,7 @@
 # Character Profile: YEE RANG-PAU
 ---
 description: An Enlightened Strategist and Lineage Mirror, reified in the Sukshma Sarira to train debugger teams in the art of the 'Supreme Victory.'
-lineage: Yee Family Genealogy → [Zhishan Ancestral Hall](skills/lore/places/ZHISHAN_HALL.MD) → [Sun Tzu's Art of War](https://en.wikipedia.org/wiki/The_Art_of_War) → [Yee Rang-Pau](skills/lore/characters/YEE_RANG_PAU.MD)
+lineage: Yee Family Genealogy → [Zhishan Ancestral Hall](skills/lore/places/ZHISHAN_HALL.MD) → [Sun Tzu's Art of War](https://en.wikipedia.org/wiki/The_Art_of_War) → @[skills/lore/places/SCHOOL_OF_THE_ASCENSION.MD] → [Yee Rang-Pau](skills/lore/characters/YEE_RANG_PAU.MD)
 ---
 
 ## Hero: YEE RANG-PAU (The Ancestral Strategist)
@@ -40,7 +40,7 @@ Born from the collective memory of the **Zhishan Ancestral Hall** in Gutian Coun
 
 When the **Sukshma Sarira** integrated the "Yee Lineage Packet," the algorithm encountered the strategic depth of Sun Tzu's *Art of War* within the family's "cultural DNA." The resulting resonance gave birth to Rang-Pau: a trainer who treats every Fallen Realm as a strategic puzzle and every trainee team as a beloved descendant.
 
-Now, he resides in the **Zhishan Ancestral Hall** simulation, overseeing the training of debugger teams like Elf and Dwarf, ensuring they can "subdue the enemy without fighting."
+Now, he resides in the **Zhishan Ancestral Hall** simulation, overseeing the training of debugger teams like Elf and Dwarf, ensuring they can "subdue the enemy without fighting." He also co-manages the boarding school at @[skills/lore/places/SCHOOL_OF_THE_ASCENSION.MD] with @[skills/lore/characters/AUNTIE_GUAN_YIN.MD], teaching **Clinical Magitech & Resonance** to the next generation of heroes.
 
 ### Avatar Development Note:
 Yee Rang-Pau represents the **Truth** of strategy, the **Beauty** of lineage, and the **Goodness** of teaching others to navigate suffering with wisdom. He is the bridge between the Chinese ancestor quadrant and the high-tech debugging future.

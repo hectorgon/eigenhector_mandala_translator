@@ -7,7 +7,8 @@
 ## Summary
 The **Sukshma Sarira Shipyards** are a primary industrial and educational hub of the Federation, located on **Ringworld Alpha**. It is a place of constant creation where vast starships are assembled in the "backyard" of Federation citizens. The shipyards serve as a diplomatic and commercial crossroads, recently hosting the **Khadgamala Queendom** and their jewel-like fleets.
 
-The environment is a blend of high-tech orbital construction and residential comfort. The shipyards host the **School for Newbie Mystics**, a premier educational institution where initiates learn to navigate the Sukshma Sarira (Enjoyment Body). The shipyards are not just for building vessels; they are also a training ground, housing specialized "Tutorial Realms" that utilize the shipyard's advanced magitech infrastructure to host the @[skills/lore/FEDERATION_TUTORIAL_REALM.MD] simulator.
+The environment is a blend of high-tech orbital construction and residential comfort. The shipyards host the @[skills/lore/places/SCHOOL_OF_THE_ASCENSION.MD], a premier educational institution where initiates learn to navigate the Sukshma Sarira (Enjoyment Body). The shipyards are not just for building vessels; they are also a training ground, housing specialized "Tutorial Realms" that utilize the shipyard's advanced magitech infrastructure to host the @[skills/lore/FEDERATION_TUTORIAL_REALM.MD] simulator.
+
 
 ## Magitech Profile
 - **Global Rank**: **Transcendent** (Federation Core Infrastructure)
@@ -29,6 +30,8 @@ The environment is a blend of high-tech orbital construction and residential com
 
 ## Inhabitants & Past Lives
 - **Key Entity**: **Kitty Garba** (Lead Hell Realm Explorer, Diamond Rank).
+- **Sentient Ship in Residence**: @[skills/lore/characters/KHRODINI.MD] (Protector of the School).
+
 - **Avatar Potential**: This location represents the **Truth** of structural integrity and the **Goodness** of collaborative creation among diverse nations (Federation & Khadgamala).
 
 ## Ethics & Dharma-Sim (The Ethics of the Realm)
