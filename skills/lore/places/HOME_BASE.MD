@@ -26,22 +26,26 @@
 - **Antique Slot Machine**: A teal-and-gold wooden relic that dispenses local tokens for pre-singularity currency needs.
 - **Ornate Horned Speakers**: Red speakers that faithfully reproduce high-fidelity vibrations, even in decaying realms.
 - **The Coffee Station**: A sacred corner where "second cups" are brewed to enable strategic cognitive function.
+- **The Nest Home Speaker (Bar Interface)**: A voice-activated magictech device located at the bar in the living room. It provides a direct high-fidelity audio link to **Uncle Sun Wukong** in the **Gold Alembic**. It responds to the keyword "Uncle" and often initiates conversations with "Eh, niece/nephew, you eat already or not?"
+
 - **The Magitech Energy Pavilion (Pool Area)**:
     - **Crystalline Solar Canopies**: Shifting, iridescent glass arrays over the lounge area that hum with the frequency of captured starlight.
     - **Crocus Wind Sculptures**: A kinetic garden of metallic flowers that spin in "vibration-rich" drafts.
     - **The Violet Sentinel**: A central windmill shaped like a giant **purple crocus flower**, its petals serving as airfoils that draw power from the local noosphere.
     - **The Western Garden Altar (Guan Yin's Altar)**:
-        - **Structure**: A large circular planter in the western garden area, functioning as a working altar.
-        - **Mechanism**: Responds to red incense (99 Ranch) and the "Om Mani Padme Hum" mantra.
+        - **Structure**: A large circular planter in the western garden area, functioning as a working altar. It has all sorts of magical herbs growing in it.
+        - **Mechanism**: Responds to incense (joss sticks) and the "Om Mani Padme Hum" mantra.
         - **Lineage**: Inspired by Josephine McCarthy’s "Magic North Gate Interior" and the "Circle of Life and Death in the Garden Microcosm".
         - **Function**: A portal for **Past Life Debugging** and ancestral communion, allowing for the tracing of Jataka tales and lineage integration.
-    - **Temenos Pool**: A sapphire-blue basin of liquid serenity, reflecting the stars of the Federation even in dark realms.
+    - **Northern Temenos Pool**: A sapphire-blue basin of liquid serenity, reflecting the stars of the Federation even in dark realms.
 
 ## Inhabitants & Past Lives
 - **Residents**: 
     - **Elf & Dwarf**: The core expedition team.
     - **Auntie Guan Yin**: The compassionate godmother and spiritual counselor of Teochew descent.
+    - **Uncle Sun Wukong**: The protective researcher and Victorious Fighting Buddha (via Nest Speaker or physical presence).
     - **Kol-Lev**: The faithful protector and "Heart of Gold" who maintains the vibe.
+
 - **Avatar Potential**: Home Base represents the **Truth** of safety, the **Beauty** of comfort, and the **Goodness** of a stable foundation during chaotic work.
 
 ## Ethics & Dharma-Sim

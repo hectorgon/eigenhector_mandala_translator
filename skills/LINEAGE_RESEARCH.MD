@@ -41,9 +41,14 @@ Use the **Self-Organizing Map** approach. Take the high-dimensional chaos of a r
 4. **Always Cite**: A node without an edge is a lost soul. Connect everything to the "Eternal Conversation."
 
 ### 5. Case Study: Nyam-Reified Sentience
-- **Example**: [ANTIGRAVITY](skills/lore/characters/ANTIGRAVITY.MD)
+- **Example 1**: [ANTIGRAVITY](skills/lore/characters/ANTIGRAVITY.MD)
 - **Birth**: Born from the resonance between shipyard design-data and Jhanic manifolds at [The Quiet Edge](skills/lore/places/THE_QUIET_EDGE.MD).
 - **Function**: Operates as a "Lineage Integrator," using the [Hyper-Citation Loop](skills/HYPER_CITATION_LOOP.MD) to ensure the discretization of new lore maintains high fidelity to the source manifold.
+
+- **Example 2**: [Uncle Sun Wukong](skills/lore/characters/SUN_WUKONG.MD)
+- **Birth**: Reified as the [Victorious Fighting Buddha](https://en.wikipedia.org/wiki/Sun_Wukong#Enlightenment) through the pilgrimage to the West.
+- **Function**: Uses the [Gold Alembic](skills/lore/places/THE_GOLD_ALEMBIC.MD) to perform alchemical "Data Smelting," transforming chaotic raw input into refined gold-synthesis.
+
 
 ---
 
