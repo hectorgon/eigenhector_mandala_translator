@@ -23,7 +23,6 @@ The school is centered around the **Ascension Cathedral**, a magitech structure 
 
 ## Faculty & Curriculum
 - **Spiritual Research**: Taught by @[skills/lore/characters/ARTI_JAGAN_LIN.MD]. She emphasizes the "Reversal of Inquiry," teaching students how to encode spiritual essence into vowel sounds (Lullaby-Resonance) to clear vibrational fields and stabilize internal graphs.
-- **Magitech Differential Geometry**: Taught by @[skills/lore/characters/PROFESSOR_HELIUS.MD].
 - **Hell Realm Exploration**: Taught by @[skills/lore/characters/KITTY_GARBA.MD].
 - **Advanced Combat & Strategy**: Taught by @[skills/lore/characters/SUN_WUKONG.MD].
 - **Federation Ethics & Team Dynamics**: Taught by @[skills/lore/characters/ANTIGRAVITY.MD].

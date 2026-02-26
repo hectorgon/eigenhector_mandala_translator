@@ -53,4 +53,11 @@ The build explores the chiral pair of **Story (Fixed Control Points)** and **Lig
 
 ### Visual Prompt:
 > "An iron-ranked researcher suspended in a dual-realm environment of sand and water. Floating red spheres represent his 'Story,' while neon crystalline threads of violet and blue 'Light' weave through them in complex N-squared patterns. His breath causes the threads to vibrate, snapping back and forth between a solid narrative grid and a fluid, non-dual sea of illumination."
+
+## References
+- Henderson, David, and Daina Taimina. *Experiencing Geometry: Euclidean and Non-Euclidean with History*. [Source Link](https://projecteuclid.org/ebooks/books-by-independent-authors/Experiencing-Geometry/toc/10.3792/euclid/9781429799850)
+- Henderson, David. *Differential Geometry: A Geometric Introduction*. [Source Link](https://projecteuclid.org/ebooks/books-by-independent-authors/Differential-Geometry-A-Geometric-Introduction/Chapter/Front-Pages-and-Photographs/10.3792/euclid/9781429799843-1)
+- Eigenhector. *Multiplicity and Unity*. [Substack Article](https://eigenhector.substack.com/p/multiplicity-and-unity)
+- Eigenhector. *Genius as the Oscillation of Verbal and Non-conceptual Cognition*. [Substack Article](https://eigenhector.substack.com/p/genius-as-the-oscillation-of-verbal)
+
 ---
