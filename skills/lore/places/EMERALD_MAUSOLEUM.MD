@@ -28,7 +28,8 @@ The planet is hollow, with the surface dedicated to lush forests during fallow p
 
 
 ## Inhabitants & Past Lives
-- **Key Entity**: **Cernunnos** (Vast Sky Protector of the Golden Dawn, Diamond Rank).
+- **Key Entity**: **[Cernunnos](../characters/CERNUNNOS.MD)** (Vast Sky Protector of the Golden Dawn, Diamond Rank).
+- **Associated Entity**: **[Ganaspati](../characters/GANASPATI.MD)** (The Fae Lord). Ganas and Fae work together to maintain the cycles and realms.
 - **Avatar Potential**: This location embodies the cycle of **Truth** (Dharma) where forms arise and pass, and the **Beauty** of a world that knows how to rest and rejuvenate.
 
 ## Ethics & Dharma-Sim (The Ethics of the Realm)

@@ -14,13 +14,13 @@ The realm is overseen by three high-ranking protectors who ensure the safety and
 - **Specialty**: Leading expeditions into "Hell Realms" and challenging simulated zones. She is firm but encouraging, often pushing students just enough to spark transcendence.
 - **Magitech Status**: **Diamond Rank**. Expert in "Razor Tree" and other sensory-rich simulations.
 
-### Cernnunos
+### [Cernunnos](characters/CERNUNNOS.MD)
 - **Archetype**: Vast Sky Protector of the Golden Dawn.
 - **Form**: Ancient guardian with a golden torc, often accompanied by the Horned Serpent.
 - **Specialty**: Managing the "Shroud" (The Murk). He controls the cycles of Arising and Passing within the simulation, showing how a "Tomb World" can ripple back into a "Gaia World."
 - **Magitech Status**: **Diamond Rank**. Operates the *Dharmapala* (beehive-shaped carrier ship) and the *Yggdrasil* space elevator/realm gate.
 
-### Ganaspati (Lord of Hosts)
+### [Ganaspati (Lord of Hosts)](characters/GANASPATI.MD)
 - **Archetype**: The Obstacle Remover & Lord of the Ganas.
 - **Form**: Inspired by Ganesha, the lord of the "wee folk."
 - **Specialty**: Master of beginnings and the coordinator of simulation mechanics. He directs the Ganas to create challenges that test a hero's wisdom rather than just their strength.

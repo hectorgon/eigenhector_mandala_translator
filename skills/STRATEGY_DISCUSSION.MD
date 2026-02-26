@@ -82,3 +82,4 @@ Heroes should fill this out before the Protectors (Kitty Garba, Cernnunos, or Ga
 - (Hector Yee - Different Ways of Dealing with Difficult Beings)
 - [Wuxing (Chinese Philosophy)](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy))
 - [Federation Tutorial Realm](skills/lore/FEDERATION_TUTORIAL_REALM.MD)
+- [Federation Ethics](skills/lore/FEDERATION_ETHICS.MD)

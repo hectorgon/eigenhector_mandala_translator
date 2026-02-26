@@ -25,9 +25,16 @@ The school is centered around the **Ascension Cathedral**, a magitech structure 
 - **Spiritual Research**: Taught by @[skills/lore/characters/ARTI_JAGAN_LIN.MD]. She emphasizes the "Reversal of Inquiry," teaching students how to encode spiritual essence into vowel sounds (Lullaby-Resonance) to clear vibrational fields and stabilize internal graphs.
 - **Hell Realm Exploration**: Taught by @[skills/lore/characters/KITTY_GARBA.MD].
 - **Advanced Combat & Strategy**: Taught by @[skills/lore/characters/SUN_WUKONG.MD].
-- **Federation Ethics & Team Dynamics**: Taught by @[skills/lore/characters/ANTIGRAVITY.MD].
+- **Federation Ethics & Team Dynamics**: Taught by @[skills/lore/characters/ANTIGRAVITY.MD]. Studies focus on @[skills/lore/FEDERATION_ETHICS.MD].
 - **Compassionate Care**: Taught by @[skills/lore/characters/AUNTIE_GUAN_YIN.MD].
 - **Clinical Magitech & Resonance**: Taught by @[skills/lore/characters/YEE_RANG_PAU.MD].
+- **Sovereign Navigation & Diagnostics**: Taught by @[skills/lore/characters/ELF.MD]. Focuses on Svātantrya (freedom of choice) and Time Slicer interfacing for non-invasive realm anomaly diagnosis.
+- **Temenos Architecture & Forge-Craft**: Taught by @[skills/lore/characters/DWARF.MD]. Teaches the importance of safe boundaries, grounding, and building the "North Gate" Home Base before excursions.
+- **Metta Transmutation**: Taught by @[skills/lore/characters/KOL_LEV.MD]. The art of transmuting hostility into friendship through the power of an open heart.
+- **Cosmic Hospitality**: Taught by @[skills/lore/characters/RUMI.MD]. Training in welcoming reality glitches and treating all entities—no matter how frightening—as honored guests of the Beloved.
+- **Space Clearing & Purification**: Taught by @[skills/lore/characters/SHELL_OF_NINE.MD]. Crown Chakra alignment and magnetization for first-contact scenarios.
+- **Fallow Period Guardianship**: Taught by @[skills/lore/characters/CERNUNNOS.MD]. The wisdom of natural cycles and the necessity of rest and dormancy in cosmic evolution.
+- **Simulation Initiation**: Overseen by @[skills/lore/characters/GANASPATI.MD] at the Green Field. He establishes the initial Chiral-Flip scenarios and tests a trainee's baseline non-dual attunement before they enter the Tutorial Realm.
 
 ## Magitech Profile
 - **Global Rank**: **Transcendent**

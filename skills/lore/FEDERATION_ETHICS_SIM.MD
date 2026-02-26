@@ -4,6 +4,7 @@ description: A safe, simulated environment within the Tutorial Realm for heroes 
 ---
 
 The **Federation Ethics Simulator** is a specialized module of the @[skills/lore/FEDERATION_TUTORIAL_REALM.MD]. Unlike combat or energy-body training, this simulator focuses on **Cognitive Ethics (Dharma-Sim)**. It generates high-fidelity scenarios where heroes must navigate conflicting values.
+*See Also: The ideological foundation of these simulations is defined by the core [Federation Ethics](FEDERATION_ETHICS.MD).*
 
 ## Simulation Parameters: Freedom & Safety
 - **Unrestricted Agency**: Heroes are encouraged to take *any* action they deem appropriate. The Ganas do not enforce a "right" answer; they only facilitate the consequences of the choice.

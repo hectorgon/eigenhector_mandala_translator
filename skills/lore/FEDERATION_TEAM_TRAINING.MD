@@ -68,4 +68,5 @@ The simulation ends with a soft *pop*. Will and Emi find themselves back in the 
 ## References
 - @[skills/lore/FEDERATION_TUTORIAL_REALM.MD]
 - @[skills/STRATEGY_DISCUSSION.MD]
+- @[skills/lore/FEDERATION_ETHICS.MD]
 - (Hector Yee - Different Ways of Dealing with Difficult Beings)

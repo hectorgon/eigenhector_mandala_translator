@@ -73,4 +73,9 @@ The "Safety Protocols" are lowered (simulated high risk). The team enters a real
 
 ## Yee Rang-Pau's Final Calibration
 > "Training is complete, Debuggers. Remember: The Art of War is the Art of Mercy. Every Fallen Realm is a piece of yourself waiting to be integrated. Go now, and may your lineage be your shield."
+
 ---
+
+## References
+- @[skills/lore/FEDERATION_ETHICS.MD]
+- @[skills/STRATEGY_DISCUSSION.MD]
