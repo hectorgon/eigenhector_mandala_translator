@@ -5,7 +5,7 @@ description: Defines the directory hierarchy and file formats for the mystic_cor
 
 # Corpus Structure
 
-This document defines the standard file structure and data formats for the `mystic_corpus` managed by the `fetch_corpus.py` tool.
+This document defines the standard file structure and data formats for the `mystic_corpus` managed by the `import_corpus.py` tool.
 
 ## Directory Hierarchy
 

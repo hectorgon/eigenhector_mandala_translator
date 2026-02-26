@@ -1,9 +1,9 @@
 # Adding Users to the Corpus Registry
 
-This skill outlines the process for registering new user aliases in the corpus registry, enabling simplified command-line usage (e.g., `fetch-corpus --user <alias>`). It is based on the design in `design/CORPUS_FETCHING_DESIGN.MD`.
+This skill outlines the process for registering new user aliases in the corpus registry.
 
 ## Overview
-The **Corpus Registry** is a JSON configuration file that maps short, user-friendly aliases to specific corpus sources and types. By adding an entry here, you can fetch from complex URLs using a single keyword.
+The **Corpus Registry** is a JSON configuration file that maps short, user-friendly aliases to specific corpus metadata.
 
 ## Configuration File Location
 *   **Path:** `mystic_corpus/corpus_registry.json`
@@ -14,22 +14,22 @@ The registry is a JSON object where update keys are aliases and values are sourc
 
 ### Entry Format
 Each user entry requires the following fields:
-*   `type`: The source type (`substack`, `github`, or `html-links`).
-*   `url`: The full URL to the source (e.g., sitemap XML, GitHub repo URL).
+*   `type`: The source type (e.g., `local`).
+*   `url`: The original source URL or path.
 *   `description`: A brief description of the corpus.
 
 ### Example Configuration
 ```json
 {
   "ari": {
-    "type": "substack",
-    "url": "https://ari.substack.com/sitemap.xml",
-    "description": "Ari's Substack"
+    "type": "local",
+    "url": "local://path/to/ari/docs",
+    "description": "Ari's corpus"
   },
   "hector": {
-    "type": "github",
-    "url": "https://github.com/hectorgon/eigenhector_mandala_translator",
-    "description": "Hector's GitHub Repo"
+    "type": "local",
+    "url": "local://path/to/hector/docs",
+    "description": "Hector's Local Repo"
   }
 }
 ```
@@ -42,10 +42,10 @@ Each user entry requires the following fields:
 4.  **Save:** Save and close the file.
 
 ## Verification
-To verify the new user has been added correctly, run the fetch tool with the new alias:
+To verify the new user has been added correctly, check that `index.json` is generated properly for that corpus via `verify_corpus.py`:
 
 ```bash
-fetch-corpus --user <new_alias> --limit 1
+python tools/verify_corpus.py --name <new_alias>
 ```
 
-If the tool starts fetching from the correct URL, the configuration is successful.
+If the tool runs correctly and reports on the corpus size, configuration is successful.

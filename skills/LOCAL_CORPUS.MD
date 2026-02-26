@@ -16,20 +16,15 @@ Adopt the **Martian Interviewer** persona (see [DIM.MD](DreamBridge/DIM.MD)).
 3.  **Alias Assignment**: Based on the description, suggest a unique `corpus_name` alias (e.g., `the_shattering_chronicles` or `circuit_board_sutras`).
 
 ## Phase 2: Technical Transmutation
-Once the "Vibe" is established, proceed with the transmutation (indexing).
+Once the "Vibe" is established, proceed with the transmutation (importing).
 
 1.  **Inventory**: List the files found in the target directory.
-2.  **Conversion**: For any non-Markdown files (`.pdf`, `.docx`, `.txt`), use appropriate conversion scripts to move them into the `reports/mystic_corpus/[alias]/docs/` folder as `00001.md`, `00002.md`, etc.
-3.  **Frontmatter Synthesis**: Each file must have frontmatter generated:
-    ```markdown
-    ---
-    id: [number]
-    title: [filename or inferred title]
-    date: [file date]
-    url: local://[original_path]
-    ---
+2.  **Conversion**: For any non-text files (`.pdf`, `.docx`), optionally convert them into markdown before import.
+3.  **Importing**: Use the import script to structure the folder automatically:
+    ```bash
+    python tools/import_corpus.py --source "C:\path\to\docs" --alias [alias]
     ```
-4.  **Index Generation**: Create `index.json` in the corpus root following [CORPUS_STRUCTURE.MD](CORPUS_STRUCTURE.MD).
+    This copies `.md` and `.txt` files into `reports/mystic_corpus/[alias]/docs/`, adding proper frontmatter and building the `index.json`.
 
 ## Phase 3: Verification & Ritual
 1.  **Verify**: Run the verification tool:
@@ -41,3 +36,6 @@ Once the "Vibe" is established, proceed with the transmutation (indexing).
 
 ## Phase 4: Integration
 Add the new corpus to the `reports/mystic_corpus/corpus_registry.json`.
+
+## Note for Agents
+If you require automated fetching from remote sources (like Substack or GitHub), you are encouraged to write your own custom script to fetch and format the documents into a local directory first, then use `import_corpus.py` to ingest them into the corpus structure.

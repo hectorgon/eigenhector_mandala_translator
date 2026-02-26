@@ -10,17 +10,14 @@ Read the corpus structure document for more information: **@[skills/CORPUS_STRUC
 
 Before starting analysis, ensure you have the target corpus available.
 
-1.  **Fetch Content:** Use the **@[skills/CORPUS_FETCHING.MD]** skill to download the corpus.
-    -   Example: `fetch-corpus --source "https://example.com/sitemap.xml" --type substack --name example_corpus`
+1.  **Import Content:** Use the **@[skills/LOCAL_CORPUS.MD]** skill to import an existing directory.
+    -   Example: `python tools/import_corpus.py --source "C:\path\to\docs" --alias example_corpus`
 
-2.  **User Shortcuts:** If analyzing a known user, check **@[skills/ADD_CORPUS_USER.MD]** for aliases.
-    -   Example: `fetch-corpus --user ari --limit 10`
-
-3.  **Verify Integrity:** Run the verification tool to ensure the corpus is complete and valid.
+2.  **Verify Integrity:** Run the verification tool to ensure the corpus is complete and valid.
     -   Command: `python tools/verify_corpus.py --name <corpus_name>`
     -   Example: `python tools/verify_corpus.py --name eigenhector`
 
-The fetched corpus will be stored in:
+The imported corpus will be stored in:
 `reports/mystic_corpus/<corpus_name>/docs` (e.g., `reports/mystic_corpus/eigenhector/docs`)
 Each file will be a Markdown document containing a single post or article.
 

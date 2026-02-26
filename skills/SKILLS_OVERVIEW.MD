@@ -20,8 +20,6 @@ These skills handle the initial acquisition and organization of data.
 *   **[Adding Corpus Users](ADD_CORPUS_USER.MD)**: How to register user aliases and source URLs in the registry.
 *   **[Listing Corpus Users](LIST_CORPUS_USERS.MD)**: Procedure for viewing all registered users and their sources.
 *   **[Corpus Registry](CORPUS_REGISTRY.MD)**: Documentation for the central `corpus_registry.json`.
-*   **[Corpus Fetching](CORPUS_FETCHING.MD)**: Instructions for downloading content using the fetching tools.
-*   **[Substack Bulk Add](SUBSTACK_BULK_ADD.MD)**: Streamlined addition and fetching of multiple Substack users.
 *   **[Local Corpus Builder](LOCAL_CORPUS.MD)**: Transforms a local directory of documents into a structured Mystic Corpus.
 *   **[Corpus Structure](CORPUS_STRUCTURE.MD)**: Defines the directory hierarchy (`index.json` and `docs/`) used for storage.
 
@@ -76,8 +74,7 @@ The following Python tools support the execution of these skills:
 
 | Tool | Purpose |
 | :--- | :--- |
-| `fetch_corpus.py` | Downloads content and converts it to structured Markdown files. |
-| `bulk_add_substack.py` | Handles bulk registration and fetching of Substack users. |
+| `import_corpus.py` | Imports a local directory into a structured Mystic Corpus. |
 | `list_users.py` | Displays the current corpus registry. |
 | `index_corpus.py` | Indexes the corpus for metadata and search. |
 | `verify_corpus.py` | Validates the integrity and completeness of a fetched corpus. |

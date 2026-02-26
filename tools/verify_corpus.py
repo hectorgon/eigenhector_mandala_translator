@@ -1,7 +1,9 @@
 import os
 import argparse
 import json
+import sys
 from datetime import datetime
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import corpus_config
 
 class CorpusVerifier:
@@ -119,8 +121,7 @@ def main():
     corpus_name = args.name
     
     # If the name exists in registry, use it (it might map to a different folder structure in future, 
-    # but for now registry keys are treated as corpus names in fetch_corpus.py too).
-    # fetch_corpus logic: args.name = args.user if not provided.
+    # but for now registry keys are treated as corpus names).
     # So if user passes 'eigenhector', it's key in registry.
     
     verifier = CorpusVerifier(corpus_name, args.storage_root)

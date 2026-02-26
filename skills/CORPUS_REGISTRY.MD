@@ -23,8 +23,8 @@ The registry is a JSON object where keys are **user aliases** and values are **c
 
 | Field | Type | Required | Description |
 | :--- | :--- | :--- | :--- |
-| `type` | String | Yes | The source type. Supported values: `substack`, `github`, `html-links`. |
-| `url` | String | Yes | The source URL (e.g., sitemap XML, GitHub repo URL). |
+| `type` | String | Yes | The source type (e.g., `local`). |
+| `url` | String | Yes | The source URL or local path. |
 | `description` | String | No | A human-readable description of the corpus. |
 | `is_default` | Boolean | No | If `true`, this corpus is treated as the primary or "self" mandala for the system. Only one entry should have this set to true. |
 
@@ -33,15 +33,10 @@ The registry is a JSON object where keys are **user aliases** and values are **c
 ```json
 {
     "eigenhector": {
-        "type": "substack",
-        "url": "https://eigenhector.substack.com/sitemap.xml",
-        "description": "Eigenhector Substack",
+        "type": "local",
+        "url": "local://path/to/eigenhector",
+        "description": "Eigenhector Corpus",
         "is_default": true
-    },
-    "paul_litvak": {
-        "type": "substack",
-        "url": "https://www.paullitvak.com/sitemap.xml",
-        "description": "Paul Litvak's Substack"
     }
 }
 ```
@@ -58,8 +53,4 @@ The `is_default` flag designates the primary perspective for the system (the "Se
 
 ## Usage in Tools
 
-Tools like `fetch_corpus.py` and `index_corpus.py` read this registry to resolve user aliases to source URLs.
-
-```bash
-python tools/fetch_corpus.py --user eigenhector --limit 10
-```
+Tools like `verify_corpus.py` and `index_corpus.py` might read this registry to resolve user aliases and metadata.
