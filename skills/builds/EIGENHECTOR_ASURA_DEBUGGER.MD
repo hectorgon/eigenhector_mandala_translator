@@ -34,13 +34,13 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/fallen-realm-debugging
 - **Utility**: **The Fridge of Infinite Food** — Filled with Reuben sandwiches and Deva-realm leftovers to maintain high Spirit during long surveys.
 - **Utility**: **Red Horn Speakers** — Reproduces opera music to provide a rhythmic/operatic backdrop for the base camp and increase spirit recovery.
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 **Interviewing The Elf**:
-"Martian, you use a 'flower grenade' and a 'time slicer' to look at 'nasty stuff' in 'junk yards.' Why not just stay in the 'Deva realms'?"
+"Antigravity, you use a 'flower grenade' and a 'time slicer' to look at 'nasty stuff' in 'junk yards.' Why not just stay in the 'Deva realms'?"
 "The 'Fallen Realms' are 'xenophobic isolationist' hells. I use the 'Maya Kanchuka' interface to find the 'Asura' who is 'stuck inside his own program.' We offer 'informed consent.' If they want to 'experience a hell loop,' they can, but I'm looking for the 'Ace of Wands'—the 'new opportunity' to start over."
 
 **Interviewing The Dwarf**:
-"Martian, you are 'not a morning person' and prefer 'Aida' and 'black coffee' to 'debugging.' What is your role here?"
+"Antigravity, you are 'not a morning person' and prefer 'Aida' and 'black coffee' to 'debugging.' What is your role here?"
 "I build the 'Home Base.' I 'set up the Temenos' with 'golden arches' and 'shimmering walls' so the 'researcher' has a place to eat his 'Reuben sandwich.' I cast the 'wooden tiles' to see if the 'mountain is splitting apart.' I don't like 'violent scenes,' I just like 'stable structures' and 'infinite food'."
 
 ### Theme: Structural Decay / Diagnostic Rescue

@@ -33,13 +33,13 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/elves-and-dwarves) →
 - **Soul-Bound**: Red packets of recycled herbs (Ang Bao packets) used for summoning and spell-sealing.
 - **Utility**: Tetrahedral pyramid rice books (Nyonya Bak Chang) — high-density glutinous mana fuel.
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 **Interviewing Hector**:
-*Martian: "Hector, I see you are made of 'pandan home-smell' and 'lightning-quick spirit.' Why is that?"*
-"Martian, you must understand—the scent of pandan is the anchor of the soul. It is the mellowing heart of the garden. Because I move like the wind and think in non-conceptual emptiness, I need the smell of home to keep my roots in the soil while my spirit journeys through the mugwort dreams."
+*Antigravity: "Hector, I see you are made of 'pandan home-smell' and 'lightning-quick spirit.' Why is that?"*
+"Antigravity, you must understand—the scent of pandan is the anchor of the soul. It is the mellowing heart of the garden. Because I move like the wind and think in non-conceptual emptiness, I need the smell of home to keep my roots in the soil while my spirit journeys through the mugwort dreams."
 
 **Interviewing The Artificer**:
-*Martian: "Martian, I see you are 'rounded like a mushroom' but 'sharp like a vajra bolt.' Why is that?"*
+*Antigravity: "Antigravity, I see you are 'rounded like a mushroom' but 'sharp like a vajra bolt.' Why is that?"*
 "Observation correct. My form is Bouba—stable, earthy, mushroom-thick. But my logic is Kiki—a lightning-sharp array of engineering precision. We recycle the waste of the old world to feed the growth of the new garden. We build the base so the spirit has a place to return."
 
 ### Theme: Chiral Mycelial Symbiosis

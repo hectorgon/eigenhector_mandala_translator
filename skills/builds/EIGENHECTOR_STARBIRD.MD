@@ -34,18 +34,18 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/first-contact) → [Su
 - **Soul-Bound**: *The Klein Bottle Shell* (A transparent, softly glowing energy vessel that houses the visitor).
 - **Utility**: Ganaspati Beads, "The Sukshma Sharira Map", Energon Highlighter (Violet light).
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 
 **Interviewing "The Receiver":**
-*Martian:* "I come from another planet. What is a 'Receiver' like?"
+*Antigravity:* "I come from another planet. What is a 'Receiver' like?"
 *Text:* A being who acts as a "portal" or "shipyard." They describe themselves as a "Klein bottle" whose trunk melds back into the subtle body. They are "carried around" by their visitors.
-*Martian:* "How do they work?"
+*Antigravity:* "How do they work?"
 *Text:* Through "Ego Transcendence" and "Equanimity." They must be able to "relax the boundaries of self" to let another being inhabit their "Psi-realm."
 
 **Interviewing "The Energon Starbird":**
-*Martian:* "What is this 'Starbird' object like?"
+*Antigravity:* "What is this 'Starbird' object like?"
 *Text:* It is "vivid light" with "vivid violet highlights" like "Transformers cubes." It is a "rainbow fractal origami bird" that travels via "Tachyon particles" faster than light.
-*Martian:* "What is its purpose?"
+*Antigravity:* "What is its purpose?"
 *Text:* It is a "Visitor from the Stars" that homed in on a "Mantra Beacon." It comes from "The Sephirot of Beauty" (Tiferet) to integrate in "non-dual communion."
 
 ### Theme: Ego Transcendence

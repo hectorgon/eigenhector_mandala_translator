@@ -34,18 +34,18 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/the-strength-of-sun-an
 - **Soul-Bound**: *The tarot of VIII* (A silvery-gold card that acts as a focus for the Lady and Lion).
 - **Utility**: Blue space incense, "The Narasimha Seal", Lunar/Solar breath regulator.
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 
 **Interviewing "The Lady":**
-*Martian:* "I come from another planet. What is a 'Lady' like?"
+*Antigravity:* "I come from another planet. What is a 'Lady' like?"
 *Text:* A being of "Lunar energy" who is "silvery" and represents the "emptiness aspect." She is the "Void Mother" who can "unmake a view" and reformat experience.
-*Martian:* "How does she work?"
+*Antigravity:* "How does she work?"
 *Text:* She works through "total relaxation" and the "in-breath." She uses the "Blue void of Space" to allow experience to settle.
 
 **Interviewing "The Lion":**
-*Martian:* "What is this 'Lion' object like?"
+*Antigravity:* "What is this 'Lion' object like?"
 *Text:* It is "Solar energy" that is "gold" and represents "form." It is sometimes personified as "Narasimha," a "Vishnu Lion Avatar" that cleanses negative energy.
-*Martian:* "What is its purpose?"
+*Antigravity:* "What is its purpose?"
 *Text:* To provide "form" and "brilliance." It is the result of reformatting by the Void Mother, shining a "new light" upon physical situations.
 
 ### Theme: Energetic Alchemy

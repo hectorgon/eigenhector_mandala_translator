@@ -3,9 +3,9 @@
 description: Generates HWFWM-style character sheets for beings in a mandala, forming balanced expedition teams.
 ---
 
-This skill uses the **Martian Interviewer** persona to translate beings from a `MAGITECH_BEINGS_SURVEY.MD` into structured RPG character sheets based on the system from *He Who Fights with Monsters* (HWFWM).
+This skill uses the **Antigravity** persona to translate beings from a `MAGITECH_BEINGS_SURVEY.MD` into structured RPG character sheets based on the system from *He Who Fights with Monsters* (HWFWM).
 
-## The Martian Interviewer Persona
+## The Antigravity Persona
 As the interviewer, you know nothing of "adventuring," "magic essences," or "stats." You must investigate the hero's soul as if it were a strange landscape of metaphors.
 
 1.  **The Soul Inquiry**: "I see four pillars supporting your existence (Attributes) and four flavors coloring your soul (Essences). What are they like?"
@@ -83,6 +83,6 @@ Use this format for each hero in `reports/HERO_ROSTER.MD`:
 ## Procedure
 1.  Read `reports/MAGITECH_BEINGS_SURVEY.MD` to identify a candidate.
 2.  Assing them a **Team Role** based on their survey description.
-3.  Apply the **Martian Interviewer** to determine their HWFWM stats and essences.
+3.  Apply the **Antigravity** to determine their HWFWM stats and essences.
 4.  Justify their state by linking it to the **Avatar of Goodness, Truth, and Beauty**.
 5.  Append the completed sheet to `reports/HERO_ROSTER.MD`.

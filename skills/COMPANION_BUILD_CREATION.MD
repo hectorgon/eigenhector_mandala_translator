@@ -19,11 +19,11 @@ Every companion build is based on a relationship between a Subject (Hero) and an
 - **The Object**: The phenomenon, tool, or visitor (e.g., The Divine Armor, The Starbird, The Radiant Skies).
 - **The Dynamic**: How do they interact? (e.g., Oscillation, Inversion, Feeding/Nourishing).
 
-### 3. Martian Interviewer (DIM)
+### 3. Antigravity (DIM)
 Use the **Dream Interview Method (DIM)** to justify character bios. Treat the text as a "dream scape":
 - **Description**: What does the being look/feel like in the text?
 - **Recapitulation**: Summarize the being's nature using only the text's metaphors.
-- **Bridging**: "Martian, I see you are made of 'Energon highlights' and 'rainbow fractal origami.' Why is that?"
+- **Bridging**: "Antigravity, I see you are made of 'Energon highlights' and 'rainbow fractal origami.' Why is that?"
 
 ## The Iron Rank Template
 
@@ -65,12 +65,12 @@ lineage: [Author Name]([Source URL]) → [Concept 1]([Context URL]) → [Concept
 - **Soul-Bound**: [Primary tool/vessel from the text]
 - **Utility**: [Consumables/minor items mentioned]
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 **Interviewing [Hero Name]**:
-[Martian Q&A using text quotes]
+[Antigravity Q&A using text quotes]
 
 **Interviewing [Companion Name]**:
-[Martian Q&A using text quotes]
+[Antigravity Q&A using text quotes]
 
 ### Theme: [Naming the Chiral Dynamic]
 [Short explanation of the core philosophical move (e.g., Inversion, Spanda).]
@@ -83,6 +83,6 @@ lineage: [Author Name]([Source URL]) → [Concept 1]([Context URL]) → [Concept
 ## Procedure
 1.  **Extract Patterns**: Read the source text. Identify the hero, the companion, and the core "move" (the theme).
 2.  **Verify Lineage**: Find the URLs for the source and any referenced traditions.
-3.  **Draft Martian Bios**: Conduct the DIM interview to ensure bios are grounded in the text's specific metaphors.
+3.  **Draft Antigravity Bios**: Conduct the DIM interview to ensure bios are grounded in the text's specific metaphors.
 4.  **Populate Template**: Match text keywords to abilities and attributes.
 5.  **Audit**: Ensure the build is "Iron Rank" (Scale: 1-10) and follows the established prefix (e.g., `EIGENHECTOR_` or `ARI_`).

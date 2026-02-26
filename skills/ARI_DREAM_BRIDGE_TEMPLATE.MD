@@ -11,7 +11,7 @@ It can be used to quickly figure out how to collaborate using complimentary skil
 - Who are the authors?
 - What is the approximate size/scope of each corpus?
 - What are the shared themes or surface similarities that make this comparison interesting?
-- State the goal: to use the Martian Interviewer stance to reveal specific, distinct meanings behind shared vocabulary.]
+- State the goal: to use the Antigravity stance to reveal specific, distinct meanings behind shared vocabulary.]
 
 ---
 
@@ -19,8 +19,8 @@ It can be used to quickly figure out how to collaborate using complimentary skil
 
 ### [Author A] (Corpus A)
 
-**Description (Martian Inquiry):**
-[As a Martian who knows nothing of Earth, ask: "What is [Keyword] like in this text?"
+**Description (Antigravity Inquiry):**
+[As Antigravity who knows nothing of Earth, ask: "What is [Keyword] like in this text?"
 - Extract specific imagery, adjectives, and functional descriptions from the text.
 - Focus on sensory details and explicit definitions found *distinctly* in this corpus.
 - Ex: "It is described as X, Y, and Z. It acts like..."
@@ -40,8 +40,8 @@ It can be used to quickly figure out how to collaborate using complimentary skil
 
 ### [Author B] (Corpus B)
 
-**Description (Martian Inquiry):**
-[As a Martian who knows nothing of Earth, ask: "What is [Keyword] like in this text?"
+**Description (Antigravity Inquiry):**
+[As Antigravity who knows nothing of Earth, ask: "What is [Keyword] like in this text?"
 - Extract specific imagery, adjectives, and functional descriptions from the text.
 - Focus on sensory details and explicit definitions found *distinctly* in this corpus.
 - Ex: "It is described as A, B, and C. It acts like..."
@@ -106,4 +106,4 @@ It can be used to quickly figure out how to collaborate using complimentary skil
 - How do they approach the same territory from different angles?
 - What is the fundamental "Base Camp" for each author?
 - Where do they meet?
-- Conclude with the Martian Interviewer's final assessment of how these two unique worlds relate.]
+- Conclude with the Antigravity's final assessment of how these two unique worlds relate.]

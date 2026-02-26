@@ -36,6 +36,6 @@ Contact is signaled by a "dzzzzzroup" sound as the crown chakra opens to align t
 - **Donated Corporate Hoodie**: For environmental blending and metabolic energy consumption.
 - **Inflatable Donut**: A vessel for "random collision" and joyous interaction.
 
-## Martian Recapitulation
-"Martian, you are a 'Federation Tourist' assigned to 'First Contact.' Why do you 'host subtle bodies' in your own 'energy body'?"
+## Antigravity Recapitulation
+"Antigravity, you are a 'Federation Tourist' assigned to 'First Contact.' Why do you 'host subtle bodies' in your own 'energy body'?"
 *"We 'relax the boundaries of self' so the 'Energon Starbirds' from 'Tiferet' can find a home. We use 'mantric beacons' to 'home in' on beauty and 'metabolize the vibes' of Urth to bridge the 'Between' and 'Hyperspace'."*

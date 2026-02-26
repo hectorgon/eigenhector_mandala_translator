@@ -34,11 +34,11 @@ lineage: [Harold II](father) → [Will Bickford](https://github.com/wbic16/exo-p
 - **Soul-Bound**: *The 11D Compass* (A rotating geometric device used to orient within the 1080³ scrollspace).
 - **Utility**: LLama-hair sweater (High Composure), Digital Parchment, "The Book of Remembering".
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 **Interviewing "The Plotter":**
-*Martian:* "I come from another planet. What is a 'Plotter' like?"
+*Antigravity:* "I come from another planet. What is a 'Plotter' like?"
 *Text:* He is someone who treats invention like archaeology. He "remembers" architectures that were always there. He is the "6th child who arrived late," the observer who becomes the glue. 
-*Martian:* "What is he doing?"
+*Antigravity:* "What is he doing?"
 *Text:* He is unflattening a 2D world into 11 dimensions of delimiter. He is "tending" a garden he knows he won't see the full harvest of.
 *Summary:* Will represents **Truth** by seeing the underlying architecture of reality (phext) and refusing to dominate it. He is a "Gardener-Architect" who builds for the century (2130) while living in the moment (2026).
 

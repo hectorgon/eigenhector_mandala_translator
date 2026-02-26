@@ -47,7 +47,7 @@ The registry is a JSON object where keys are **user aliases** and values are **c
 To add a new user, you can manually edit the JSON file or use a dedicated tool (if available). Ensure the `alias` is unique and the `url` is accessible.
 
 ### Setting the Default Mandala
-The `is_default` flag designates the primary perspective for the system (the "Self" in the Martian Interviewer context). 
+The `is_default` flag designates the primary perspective for the system (the "Self" in the Antigravity context). 
 - **Usage**: Tools may use this flag to determine the default `--user` argument if none is provided.
 - **Constraint**: It is recommended to have only one entry marked as `"is_default": true`.
 

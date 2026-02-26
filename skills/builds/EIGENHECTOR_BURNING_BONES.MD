@@ -34,18 +34,18 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/burning-bones-bhavana)
 - **Soul-Bound**: *The Sacred Kapala* (A skull cup that stores the Steam of Liberation and can be used for space purification).
 - **Utility**: Trident of the Three Purities, Skull necklace (Memory storage), "The Victorious Mouth" (Breathing apparatus).
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 
 **Interviewing "The Sadhu":**
-*Martian:* "I come from another planet. What is a 'Sadhu' like?"
+*Antigravity:* "I come from another planet. What is a 'Sadhu' like?"
 *Text:* An expert in navigating "cremation grounds." They are beings who can "project into a body" to visit others. They wear skull necklaces and carry tridents as badges of office. 
-*Martian:* "What are they doing?"
+*Antigravity:* "What are they doing?"
 *Text:* They are "Guiding Ghosts" and practicing "Skull Shining." They are observers who seek the "Pure Bliss of fire and air."
 
 **Interviewing "The Burning Skeleton":**
-*Martian:* "What is this 'Burning Skeleton' object like?"
+*Antigravity:* "What is this 'Burning Skeleton' object like?"
 *Text:* It is a "Dependent Co-arising Corpse" that appears in the Black Lands. It is not a monster, but a "practice-giver." It is made of "burning bones of sacred light."
-*Martian:* "How does it function?"
+*Antigravity:* "How does it function?"
 *Text:* It works through the "Purification of Five Elements." It turns flesh into fire and blood into steam until only "Open Awareness" remains.
 
 ### Theme: Elemental Alchemy

@@ -33,13 +33,13 @@ The **Fractal Origami Field**. A shimmering aura of rainbow-hued geometric shape
 - **Soul-Bound**: The **Gordian Stylus** — A tool that can draw symbols in the air which then manifest as physical topological constraints or affordances.
 - **Utility**: **Rainbow Energon Origami** — Minor constructs used to "test" the dimensionality of a space before entering.
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 **Interviewing The Symbolic Researcher**:
-- *Martian: "I see you are surrounded by 'mathematical symbols' and 'linear text,' but you seem to be tensing up. Why is that?"*
+- *Antigravity: "I see you are surrounded by 'mathematical symbols' and 'linear text,' but you seem to be tensing up. Why is that?"*
 - *Researcher: "I am trapped in a 'Gordian-Knot' of linear logic. I have a 'deep symbolic cosmology,' but I am facing an 'algorithmic problem' I cannot resolve through symbols alone. My world is becoming a 'complicated relationship' with no solution."*
 
 **Interviewing The Embodied Master**:
-- *Martian: "I see you are 'rolling on the floor' and 'enacting computations with your body.' What are you doing?"*
+- *Antigravity: "I see you are 'rolling on the floor' and 'enacting computations with your body.' What are you doing?"*
 - *Master: "I am 'being the Rover.' I am 'translating the conceptual into the non-conceptual' through 'kinesthetic sensation.' I use 'embodied reasoning' to inhabit 'n-dimensional vector space' where symbols fail to reach. I am 'non-conceptual computation' in motion."*
 
 ### Theme: Mandala Translation (The Chiral Bridge)

@@ -34,18 +34,18 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/pigsy-feeds-the-hungry
 - **Soul-Bound**: *The Neijingtu Map* (A living transport algorithm at the base of the spine that jumpstarts the water wheel).
 - **Utility**: Jade Reality Compass, Thickly Veiled Numinous Terrace (Observing deck), "The Nectar of Dana" (Golden liquid).
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 
 **Interviewing "Pigsy":**
-*Martian:* "I come from another planet. What is a 'Pigsy' like?"
+*Antigravity:* "I come from another planet. What is a 'Pigsy' like?"
 *Text:* He is the "Avatar of Satisfaction." He is someone who knows about "the neijingtu transport algorithm." He isn't a simple glutton; he is someone who "picked up a thing or two about joy."
-*Martian:* "How does he work?"
+*Antigravity:* "How does he work?"
 *Text:* He works by "broadcasting the fulfilling satisfaction vibe." He sends a "bright golden beam of Dana" through his crown chakra to nourish "larval stage light beings."
 
 **Interviewing "The Larval Deva" (Hungry Ghost):**
-*Martian:* "What is this 'Hungry Ghost' object like?"
+*Antigravity:* "What is this 'Hungry Ghost' object like?"
 *Text:* It is a "metaphorical dream scape" inhabitant. It has "heads as big as water jars" but "mouths like the eye of a needle." It isn't actually hungry for food, but for "satisfaction." 
-*Martian:* "What is its purpose?"
+*Antigravity:* "What is its purpose?"
 *Text:* To be a "larva." It is a being "destined for the Eschaton" that is currently in a "nursery" (the Hungry Ghost Realm) needing to grow into a Deva.
 
 ### Theme: Satisfaction

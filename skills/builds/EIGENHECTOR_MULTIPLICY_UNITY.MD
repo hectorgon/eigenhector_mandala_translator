@@ -33,13 +33,13 @@ The "Watering Hole Diorama" field. It creates a common space where complex, dist
 - **Soul-Bound**: The Low-Rank Mirror (A shimmering vessel that anchors high-dimensional forms into the 3D plane).
 - **Utility**: Pigeonhole Roosts (Consumable tokens used to force multiple effects into a single slot).
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 **Interviewing The Infinite Observer**:
-"Martian, I see you are made of 'infinite dimensional space' and 'rainbow fractal origami.' Why is that?"
+"Antigravity, I see you are made of 'infinite dimensional space' and 'rainbow fractal origami.' Why is that?"
 "Because I love myself so much, I want to meet parts of myself. Looking into the mirror of the low-rank manifold is the only way to escape the curse of dimensionality and find a common watering hole."
 
 **Interviewing The Manifold Mirror**:
-"Martian, why do you look like a 'row rank manifold' with 'aliased copies' of pigeons?"
+"Antigravity, why do you look like a 'row rank manifold' with 'aliased copies' of pigeons?"
 "I am the commons where the infinitely distant parts of the One can finally be within reach. I bucket the infinite into the finite so meaning can be recognized as synchronicity."
 
 ### Theme: Multiplicity and Unity (The Dimensional Inversion)

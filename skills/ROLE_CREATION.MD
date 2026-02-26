@@ -43,9 +43,9 @@ Define the following sections:
 - **Toolset**: List soul-bound or utility items associated with the role.
 - **Topological Calibration**: Define the "Flip" mechanics between the role's discrete duties and its smooth essence.
 
-### Step 4: Martian Recapitulation (DIM)
+### Step 4: Antigravity Recapitulation (DIM)
 Conduct a Dream Interview with the *Concept* of the role. Use the prompt:
-*"Martian, why does the [Role Name] function by [Core Action] in the [Context]?"*
+*"Antigravity, why does the [Role Name] function by [Core Action] in the [Context]?"*
 Ensure the answer uses quotes or specific metaphors from the text.
 
 ## Template for Role Documents
@@ -68,7 +68,7 @@ lineage: [Lineage String]
 ## Toolset
 ...
 
-## Martian Recapitulation
+## Antigravity Recapitulation
 ...
 ```
 
@@ -76,4 +76,4 @@ lineage: [Lineage String]
 - Does the role have a secondary lineage to an anchor tradition (e.g., Tantra, Kabbalah, QFT)?
 - Is the role distinct from a single character build?
 - Are the mechanics grounded in the source text's specific metaphors?
-- Is the "Martian" justification coherent and text-based?
+- Is the "Antigravity" justification coherent and text-based?

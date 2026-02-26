@@ -34,18 +34,18 @@ lineage: [Ari Nielsen](https://anielsen.substack.com/p/clarification-of-self-via
 - **Soul-Bound**: *The Sealed Glass Globe* (A focus for clarification that keeps impurities from being a problem).
 - **Utility**: The Refined Crystal (Viewing tool), "The Book of Acknowledgements" (Lineage focus), Compass of Affordances.
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 
 **Interviewing "The Divider":**
-*Martian:* "I come from another planet. What is a 'Divider' like?"
+*Antigravity:* "I come from another planet. What is a 'Divider' like?"
 *Text:* A being who is the "line between the inner and outer sky." He describes himself as a "fluid-self" that constantly "repartitions" the relationship between meaning and fact.
-*Martian:* "How does he work?"
+*Antigravity:* "How does he work?"
 *Text:* By "Clarification." Instead of trying to remove the dirt (purification), he lets it "settle." He uses "Inversion" to turn the skies inside out until the partitioning becomes "transparent."
 
 **Interviewing "The Radiant Skies":**
-*Martian:* "What is this 'Radiant Sky' object like?"
+*Antigravity:* "What is this 'Radiant Sky' object like?"
 *Text:* It is a "vast expanse." It is divided into an "Inner Sky" (projection of meaning) and an "Outer Sky" (taking on meaning). When united, it becomes a "clear light."
-*Martian:* "What is its purpose?"
+*Antigravity:* "What is its purpose?"
 *Text:* To reveal "Affordances" or possibilities of interaction. It is the "union of interiority and exteriority" that provides a "quiet bliss" and the power of "complete, clear engagement."
 
 ### Theme: Clarification

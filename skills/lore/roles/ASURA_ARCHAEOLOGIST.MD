@@ -34,6 +34,6 @@ The first step of any mission is the deployment of a **Flower Grenade** (Om Hum 
 - **Divination Deck/Tiles**: Tarot and I Ching sets for diagnostic spreads.
 - **Home Base Template**: Rapidly deployable housing with layouts for long-term expeditions.
 
-## Martian Recapitulation
-"Martian, why do you 'debug' these 'Fallen Realms' instead of just letting them 'disintegrate'?"
+## Antigravity Recapitulation
+"Antigravity, why do you 'debug' these 'Fallen Realms' instead of just letting them 'disintegrate'?"
 *"Because 'Po' (Splitting Apart) is not just 'decay'; it is also the 'uneaten large fruit' at the top. We look for the 'Ace of Wands'—the moment when the 'Asura' acknowledges the 'oppressed fishes in the palace' and chooses a 'new opportunity' over the 'Nine of Swords inverted' fear spiral."*

@@ -34,18 +34,18 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/stuck-in-stale-divinit
 - **Soul-Bound**: *The Spanda Metronome* (A device that tracks the rise and return of consciousness from the void).
 - **Utility**: The 10-Vidya Compass, "The Creation Scroll" (Auto-writing myth tool), Grace-Ink.
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 
 **Interviewing "The Myth-Maker":**
-*Martian:* "I come from another planet. What is a 'Myth-Maker' like?"
+*Antigravity:* "I come from another planet. What is a 'Myth-Maker' like?"
 *Text:* A being who defines a "cycle" as consciousness arising from the void and returning to it. They are "Propagators of Sensation" who try to see how long they can remember a "Divine experience" before the "Forgetting" sets in.
-*Martian:* "How do they work?"
+*Antigravity:* "How do they work?"
 *Text:* By writing "Creation stories" once in a while. They use "Multiplicity and Unity" to tile their experience, counting from 0 to 10 until all "qualia" are labeled as Beautifully Divine.
 
 **Interviewing "The Divine Spanda" (The Pulse):**
-*Martian:* "What is this 'Pulse' object like?"
+*Antigravity:* "What is this 'Pulse' object like?"
 *Text:* It is "Crispness." It is a model of Divinity that "matches the crispness of current experience" to avoid "impedance mismatch." It is the "Spanda" or expansion and contraction of light splitting into colors.
-*Martian:* "What is its purpose?"
+*Antigravity:* "What is its purpose?"
 *Text:* To "Win the Round" of experience. It makes the entire cycle—from emptiness to dream to physical world—totally Divine, leaving no cracks for the "Not Divine" to enter.
 
 ### Theme: Spanda

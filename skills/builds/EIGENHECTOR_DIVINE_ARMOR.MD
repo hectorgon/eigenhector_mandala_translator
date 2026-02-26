@@ -34,18 +34,18 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/divine-armor) → [Amr
 - **Soul-Bound**: *The Gourd of Nectar* (A white vessel that stores the Amrita bhava and allows for direct download of the mantra).
 - **Utility**: Lotus throne (Portable), Mantric beads, "The Pashyanti Vak" (Light language scrolls), White silk robes.
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 
 **Interviewing "The Yogi":**
-*Martian:* "I come from another planet. What is a 'Yogi' like?"
+*Antigravity:* "I come from another planet. What is a 'Yogi' like?"
 *Text:* A being who practices "background-foreground flips." They don't just wear protection; they *become* it. They are a "pilot" who can trade places with the "armor."
-*Martian:* "How do they work?"
+*Antigravity:* "How do they work?"
 *Text:* Through "mantric chains of associative invocations." They turn mundane feelings (honey, sun, kisses) into "liquid light."
 
 **Interviewing "The Divine Armor" (Amriteshwara):**
-*Martian:* "What is this 'Armor' object like?"
+*Antigravity:* "What is this 'Armor' object like?"
 *Text:* It is "The Lord of Nectar of Immortality." It is white, sits on a lotus, and holds a gourd. It is not a machine, but a "divine vibe" (bhava) that has "no beginning and no end."
-*Martian:* "What is its purpose?"
+*Antigravity:* "What is its purpose?"
 *Text:* To provide "freedom in perfect submission." It pilots the yogi so that "time stops."
 
 ### Theme: Non-Duality

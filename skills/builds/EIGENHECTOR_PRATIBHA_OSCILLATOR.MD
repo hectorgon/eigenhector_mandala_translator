@@ -34,18 +34,18 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/genius-as-the-oscillat
 - **Soul-Bound**: *The Oscillator Metronome* (Syncs breath with the Spanda cycle of Story and Light).
 - **Utility**: The Crystal Sphere (Dang mode), The Refractive Prism (rTsal mode), "The 1000 Name Filter".
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 
 **Interviewing "The Oscillator":**
-*Martian:* "I come from another planet. What is an 'Oscillator' like?"
+*Antigravity:* "I come from another planet. What is an 'Oscillator' like?"
 *Text:* A being who alternates between "solid thoughts like land" and a "subconscious sea." He describes his mind as an "interpolating spline" that moves between fixed control points of story and a non-conceptual curve of light.
-*Martian:* "How does he work?"
+*Antigravity:* "How does he work?"
 *Text:* By untying "Gordian knots." He recasts story problems as light, solves them in the unmanifest void, and reads them back into " Genius" or "Pratibha" insights.
 
 **Interviewing "Pratibha" (Intuitive Insight):**
-*Martian:* "What is this 'Pratibha' object like?"
+*Antigravity:* "What is this 'Pratibha' object like?"
 *Text:* It is a "reversal" of how sound travels. It is the "intuitive insight" that returns from the high-complexity light realm back to the world of story. It can calculate "N*(N-1)/2 interactions" between points in a story.
-*Martian:* "What is its purpose?"
+*Antigravity:* "What is its purpose?"
 *Text:* To be the "by-product of the cycle." It is the "genius" that allows one to "rethink the past" and work at a higher level of cognition that is "beyond any amount of token limit."
 
 ### Theme: Oscillation

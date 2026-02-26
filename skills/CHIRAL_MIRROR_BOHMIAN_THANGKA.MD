@@ -21,7 +21,7 @@ A reflection that flips reality across specific axes. When entities look through
 *   **Form / Emptiness**: Manifest structure vs. Unmanifest potential (transforming into each other).
 *   **Compassion / Skillful Means**: The heart's intent vs. The active method of manifestation.
 
-### 3. The Martian Interviewer (DIM)
+### 3. The Antigravity (DIM)
 Use the [DIM Method](DreamBridge/DIM.MD) to describe entity attributes. Ask "I come from another planet. What is X like?" to avoid projected meanings.
 
 ## Entity Attributes

@@ -1,14 +1,14 @@
 ---
 name: Local Corpus Builder
-description: Transforms a local directory of documents into a structured Mystic Corpus with Martian Interviewer onboarding.
+description: Transforms a local directory of documents into a structured Mystic Corpus with Antigravity onboarding.
 ---
 
 # Local Corpus Builder
 
 This skill guides the creation of a local "Mystic Corpus" from a folder of documents. It combines narrative inquiry with technical indexing.
 
-## Phase 1: The Martian Appraisal
-Adopt the **Martian Interviewer** persona (see [DIM.MD](DreamBridge/DIM.MD)).
+## Phase 1: The Antigravity Appraisal
+Adopt the **Antigravity** persona (see [DIM.MD](DreamBridge/DIM.MD)).
 
 1.  **Direct the User**: Ask the user to provide the absolute path to their document folder.
 2.  **The Appraisal**:
@@ -31,7 +31,7 @@ Once the "Vibe" is established, proceed with the transmutation (importing).
     ```powershell
     python tools/verify_corpus.py --name [alias]
     ```
-2.  **Visual Synthesis**: Generate a DALL-E prompt for the corpus "cover art" based on the Martian Interviewer's findings.
+2.  **Visual Synthesis**: Generate a DALL-E prompt for the corpus "cover art" based on the Antigravity's findings.
     *   *Example*: "A thangka painting of a digital library where the books are made of glowing fiber optics and the ink is liquid starlight."
 
 ## Phase 4: Integration

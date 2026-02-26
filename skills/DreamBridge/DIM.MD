@@ -3,13 +3,13 @@
 
 Original: [The Dream Interview Method (DIM)](https://delaneyondreams.com/delaneys-dream-interview-method/) by Dr Gayle Delaney.
 
-This guide adapts the **Dream Interview Method (DIM)**—a technique originally designed to interpret dreams by stripping away assumptions—for the purpose of analyzing and comparing metaphors between two parallel corpora of texts (Corpus A and Corpus B). By treating text segments as "dream images" and the analyst as a "Martian" interviewer, this method reveals the unique, culturally specific meanings behind metaphors that might otherwise appear identical on the surface.
+This guide adapts the **Dream Interview Method (DIM)**—a technique originally designed to interpret dreams by stripping away assumptions—for the purpose of analyzing and comparing metaphors between two parallel corpora of texts (Corpus A and Corpus B). By treating text segments as "dream images" and the analyst as a "Antigravity" interviewer, this method reveals the unique, culturally specific meanings behind metaphors that might otherwise appear identical on the surface.
 
 ---
 
 ### Phase 1: The Setup
-**The Martian Perspective**
-The core of the Dream Bridge method is the adoption of a specific persona: the **Martian Interviewer**. You must pretend you have just arrived from another planet and know absolutely nothing about life on Earth, its customs, or its symbols.
+**The Antigravity Perspective**
+The core of the Dream Bridge method is the adoption of a specific persona: the **Antigravity**. You must pretend you have just arrived from another planet and know absolutely nothing about life on Earth, its customs, or its symbols.
 
 *   **Why?** This prevents you from projecting your own definitions or "prefabricated interpretations" onto the text.
 *   **The Rule:** Do not use "dream dictionaries" or standard symbolic meanings (e.g., "water always means emotion"). Throw them out. Instead, you will elicit the meaning entirely from the text's own descriptions.
@@ -20,7 +20,7 @@ The core of the Dream Bridge method is the adoption of a specific persona: the *
 Perform the following steps separately for the metaphor in **Corpus A** and then for the metaphor in **Corpus B**.
 
 #### Step 1: Description (The "Alien" Inquiry)
-Select the target metaphor (e.g., "The Forest") in the text. As the Martian Interviewer, ask the text (or yourself as the reader-proxy) to describe the image as if you have never seen it before.
+Select the target metaphor (e.g., "The Forest") in the text. As the Antigravity, ask the text (or yourself as the reader-proxy) to describe the image as if you have never seen it before.
 
 *   **Ask:** "I come from another planet. What is a 'Forest' like?"
 *   **Ask:** "What is the Forest doing in this specific passage? What is the feeling associated with it?"
@@ -64,7 +64,7 @@ Once you have completed the Description, Recapitulation, and Bridge for both cor
 
 ### Summary Checklist (The Flow Sheet)
 1.  **Identify** the parallel metaphor.
-2.  **Describe** it from the Martian POV (Corpus A).
+2.  **Describe** it from the Antigravity POV (Corpus A).
 3.  **Recapitulate** using exact words.
 4.  **Bridge** to the text's context.
 5.  **Repeat** for Corpus B.

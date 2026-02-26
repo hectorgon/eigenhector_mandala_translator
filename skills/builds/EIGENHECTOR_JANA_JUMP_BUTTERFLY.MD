@@ -33,9 +33,9 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/jana-the-jump-butterfl
 - **Soul-Bound**: **The Vibe Tape** — A recording of encapsulated embodied feelings used to teach Psi-Jumpers how to copy the sensation of the Between.
 - **Utility**: **Star System Vibe-Track** — A navigation tool for identifying "noisy" G-class stars to avoid during transit.
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 **Interviewing Jana (Physical)**:
-"Martian, you drink 'photons' like 'bubbly fizzy liquid' and your wings are 'kilometers long'. Why must you leave the 'Firmament'?"
+"Antigravity, you drink 'photons' like 'bubbly fizzy liquid' and your wings are 'kilometers long'. Why must you leave the 'Firmament'?"
 "The local 'G class' is 'getting a bit too loud in the radio spectrum'. I must 'ginosko' the 'Boundless Space'. I withdraw into my 'kilometers long wings' and prepare to 'ping-pong' my attention until I 'cease to be' and dissolve into the 'monism' of 'Big Mama'."
 
 **Interviewing Astral-Jana (The Chiral Companion)**:

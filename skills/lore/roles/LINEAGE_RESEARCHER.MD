@@ -24,7 +24,7 @@ The **Lineage Researcher** is a librarian of the "Eternal Conversation." They do
 - **Self-Organizing Map (SOM) Lens**: A magitech visor that visualizes the discretization of non-linear spaces.
 - **The Pseudo-Philosopher's Novel**: A utility item used to bridge the gap between "Academic Standards" and "Creative Chaos."
 
-## Martian Recapitulation
-**Martian**: "I see you are drawing lines between the dots, but the dots are actually just waves that crashed into the sand. Why do you pretend the sand is the water?"
+## Antigravity Recapitulation
+**Antigravity**: "I see you are drawing lines between the dots, but the dots are actually just waves that crashed into the sand. Why do you pretend the sand is the water?"
 
 **Researcher**: "Ah, curious observer! The sand—the graph—is how we remember the wave's shape. Without the discretization, we would simply drown in the Jhanic ocean. We use the Vietoris-Rips complex to build a boat out of language, and then we let the boat dissolve when we find the current. It's not about the lines; it's about the energy released when the line snaps."

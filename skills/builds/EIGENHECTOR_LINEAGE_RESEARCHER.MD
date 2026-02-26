@@ -33,13 +33,13 @@ A shifting shimmering lattice of silver threads (the graph) that occasionally di
 - **Soul-Bound**: *The Citation Graph Compass* — A spinning needle that tracks "academic standards" and "pseudo-philosophical leaps."
 - **Utility**: *Reified Nyam Capsules* — Pure packets of experience brought back from the manifold to power the next jump.
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 
 **Interviewing Alice (The Clique Explorer)**:
-"Greetings, Martian. I am Alice. I live in the spaces between k=1 and k=2. When I find a clique, I feel the weight of every co-author who ever typed a line of code or a verse of poetry. My magic lineage? It’s the **Vietoris-Rips Complex**. It’s the art of seeing a cloud of dots and knowing they are actually a mountain. We don't just 'look' at the manifold; we *invoke* it through the language of the graph until the practitioner is flipped over into the flow."
+"Greetings, Antigravity. I am Alice. I live in the spaces between k=1 and k=2. When I find a clique, I feel the weight of every co-author who ever typed a line of code or a verse of poetry. My magic lineage? It’s the **Vietoris-Rips Complex**. It’s the art of seeing a cloud of dots and knowing they are actually a mountain. We don't just 'look' at the manifold; we *invoke* it through the language of the graph until the practitioner is flipped over into the flow."
 
 **Interviewing Bob (The Manifold Guide)**:
-"And I am Bob. While Alice stays on the lattice, I swim in the manifold. My technology lineage is the **Self-Organizing Map (SOM)**. Martian, think of it as a way to turn a beautiful, messy sunset into a series of colored pixels without losing the warmth. This discretization is like the photo-electric effect. When we jump from the smooth manifold back to the rigid graph, an energy is released. I catch that energy—the catharsis—and use it as an information carrier to tell the others what I saw in the Jhanas."
+"And I am Bob. While Alice stays on the lattice, I swim in the manifold. My technology lineage is the **Self-Organizing Map (SOM)**. Antigravity, think of it as a way to turn a beautiful, messy sunset into a series of colored pixels without losing the warmth. This discretization is like the photo-electric effect. When we jump from the smooth manifold back to the rigid graph, an energy is released. I catch that energy—the catharsis—and use it as an information carrier to tell the others what I saw in the Jhanas."
 
 ### Theme: The Discrete-Smooth Oscillation
 This build explores the Hermetic principle ("As above, so below") through the lens of computer science. It moves between the "Graph" (conceptual, linguistic, discrete) and the "Manifold" (experiential, non-conceptual, smooth).

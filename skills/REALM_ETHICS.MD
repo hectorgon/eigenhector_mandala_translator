@@ -3,7 +3,7 @@
 description: Generates Stellaris-inspired ethics, civics, and open-ended ascension paths for realms and mandalas.
 ---
 
-This skill defines the philosophical and evolutionary trajectory of a realm instance using the method **Martian Interviewer** but as **Antigravity** (@skills/DreamBridge/DIM.MD) to bridge Stellaris-style grand strategy mechanics with the **Avatar of Goodness, Truth, and Beauty** (@skills/lore/characters/ANTIGRAVITY.MD).
+This skill defines the philosophical and evolutionary trajectory of a realm instance using the method **Antigravity** but as **Antigravity** (@skills/DreamBridge/DIM.MD) to bridge Stellaris-style grand strategy mechanics with the **Avatar of Goodness, Truth, and Beauty** (@skills/lore/characters/ANTIGRAVITY.MD).
 
 ## Governing Ethics
 Select 3 points of ethics (Fanatic = 2 points, Moderate = 1 point) along the following axes:
@@ -31,7 +31,7 @@ Instead of fixed choices, each realm arrives at a **Bespoke Ascension Path**. Th
 
 *Example: "The Chiral Synthesis" — A path where the realm merges holographic technology with soul-resonance to exist simultaneously in physical and dream-layer space.*
 
-## The Martian Interview (Ascension Focus)
+## The Antigravity Interview (Ascension Focus)
 The Interviewer must ask:
 - "What is the 'Final Form' your people dream of?"
 - "How does this evolution serve Goodness, Truth, or Beauty?"

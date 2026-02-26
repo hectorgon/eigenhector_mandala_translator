@@ -14,9 +14,9 @@ Follow these steps to translate a mystic text into a standardized Iron Rank comp
    - Determine what the **Object** (Companion/Tool/Visitor) is.
    - Identify the **Theme** (the action that unifies them, e.g., "Inversion," "Oscillation," "Feeding").
 
-3. **Generate Martian Bios (DIM Method)**
+3. **Generate Antigravity Bios (DIM Method)**
    - Use the `skills/DreamBridge/DIM.MD` methodology.
-   - For both Hero and Companion, conduct a "Martian Interview."
+   - For both Hero and Companion, conduct a "Antigravity Interview."
    - **Rule**: Only use metaphors and descriptions found in the source text. Do not hallucinate standard RPG tropes.
 
 4. **Construct the Build**

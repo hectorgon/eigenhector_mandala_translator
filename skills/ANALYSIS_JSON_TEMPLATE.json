@@ -11,7 +11,7 @@
     "major_recurring_metaphors": [
         {
             "keyword": "Metaphor Keyword (e.g., The Forest)",
-            "description": "Martian Description: What is it like? (Adjectives, sensory details)",
+            "description": "Antigravity Description: What is it like? (Adjectives, sensory details)",
             "recapitulation": "Mirroring: Summary using only the text's exact words.",
             "bridge": "Contextualization: Connection to broader reality or argument.",
             "occurrences": [
@@ -41,5 +41,5 @@
         }
     ],
     "evolution_of_ideas": "Description of how ideas change or develop over the course of the corpus.",
-    "martian_interviewer_assessment": "Final assessment from the Martian Interviewer persona."
+    "antigravity_assessment": "Final assessment from the Antigravity persona."
 }

@@ -26,12 +26,12 @@ To translate abstract character attributes, essences, and themes into a grounded
 
 ### 4. Tone & Style
 - **Unpretentious & Grounded**: Use sensory metaphors (pu'er tea, shovels, gardening, engineering spec sheets).
-- **Martian Interviewer Curiosity**: Avoid taking a preachingside. Instead, investigate the *texture* of the controversy and the *posture* of the souls involved.
+- **Antigravity Curiosity**: Avoid taking a preachingside. Instead, investigate the *texture* of the controversy and the *posture* of the souls involved.
 - **Fractal specificity**: Reject simple binaries (Black/White) in favor of "Fractal Gray" (infinite specificity).
 
 ## Procedure
 
-1. **Invoke the Martian Interviewer**: "I am a Martian. Why are these beings talking about this 'mixture'?"
+1. **Invoke the Antigravity**: "I am Antigravity. Why are these beings talking about this 'mixture'?"
 2. **Setup the Centrifuge**: Place the Hero in their "Peak State" (Combat or Creative).
 3. **Release the Eels**: Let the controversy present its "batshit details" through the Companion/Mixture.
 4. **Refine to 30% Gold**: Have the Hero use their themes to find an "Optimal Sub-optimal" path through the data.

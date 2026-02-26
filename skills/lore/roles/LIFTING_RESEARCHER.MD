@@ -32,7 +32,7 @@ The Researcher operates in the space where "A" and "Not-A" are both held in reso
 - **The Ramanujan Grimoire**: A collection of non-conceptual insights that point at mathematical truths.
 - **Taichi Silks**: Garments that enhance the proprioceptive feedback of "embodied computation."
 
-## Martian Recapitulation
-*"Martian, why does the Researcher function by translating logic into poems in the Federation?"*
+## Antigravity Recapitulation
+*"Antigravity, why does the Researcher function by translating logic into poems in the Federation?"*
 
 *"Because logic is the 'shadow' of the truth cast upon a flat wall of words. The Researcher knows that if the shadow is tangled, one must look at the Light itself. By turning a math problem into a poem, they are simply restoring the 'vibe-dimensionality' that was lost in translation. As Eigenhector says, 'The point is for these men to actually find the unique resonances that enhanced their spiritual participation in the world.' Without the poem, the mathematician is blind to his own body's answer."*

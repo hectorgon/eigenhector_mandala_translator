@@ -34,18 +34,18 @@ lineage: [Ari Nielsen](https://anielsen.substack.com/p/fractally-embracing-and-r
 - **Soul-Bound**: *The Fractal Refiner* (A device that shovels mixture into a never-ending refinement stream).
 - **Utility**: The 16mm Projector (Contextual lag tool), "The Mostly-Wrong Grammar Book," Vari-speed headphones.
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 
 **Interviewing "The Refiner":**
-*Martian:* "I come from another planet. What is a 'Refiner' like?"
+*Antigravity:* "I come from another planet. What is a 'Refiner' like?"
 *Text:* A being who lives in the "slipstream of institutional learning." He describes himself as a "recapitulator of seven grades in eight weeks." He is someone who "fractally deploys an inseparable mix of trust and skepticism."
-*Martian:* "How does he work?"
+*Antigravity:* "How does he work?"
 *Text:* By "shoveling a mixture of gold and crap." He avoids the "temptation to refine all the crap away," choosing instead to "apply refined-to-only-20%-crap wisdom" in his daily activities.
 
 **Interviewing "The Mixture" (Gold and Crap):**
-*Martian:* "What is this 'Mixture' object like?"
+*Antigravity:* "What is this 'Mixture' object like?"
 *Text:* It is "gray that when inspected reveals itself to be fractally black and white." It is a combination of "batshit insane details" and "value directionality."
-*Martian:* "What is its purpose?"
+*Antigravity:* "What is its purpose?"
 *Text:* To be "Shoveled." It is a "mixture of gold and crap" that rewards those who don't seek purity but instead search for "rich hidden veins" within the 30% ratio.
 
 ### Theme: Fractal Polarity

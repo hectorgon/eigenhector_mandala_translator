@@ -24,7 +24,7 @@ The **Spiritual Researcher** is not an observer, but a participant-witness in th
 - **The Axiology Compass**: Points toward the "Goodness" and "Ethics" within a research problem.
 - **The Teleology Scale**: Measures the ultimate purpose of knowledge—whether it leads to liberation or just more complexity.
 
-## Martian Recapitulation
-**Martian**: "You spend so much time looking at your own eyes in the mirror. How do you see the world if you are always watching the seer?"
+## Antigravity Recapitulation
+**Antigravity**: "You spend so much time looking at your own eyes in the mirror. How do you see the world if you are always watching the seer?"
 
 **Spiritual Researcher**: "Precisely! The world *is* the mirror. If the mirror is dusty, the star looks dim. I do not watch the seer to ignore the world; I clean the seer so the world can be seen in its original brilliance. I am the laboratory, the scientist, and the result."

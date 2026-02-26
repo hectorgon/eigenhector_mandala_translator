@@ -33,9 +33,9 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/bob-the-builder-beggar
 - **Soul-Bound**: **The Nautilus Shell** — A portable house/focusing vessel that allows Bob to carry his home and Psi-potential across the "Between."
 - **Utility**: **Donated Corporate Hoodie** — A garment rich in "residual vibes" (launch excitement, despair) used for energy consumption and environmental blending.
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 **Interviewing Bob (The Architect)**:
-"Martian, you function in 'The Between' building 'Jump Gates' outside 'Your Rain Us'. How do you stay sane where others fail?"
+"Antigravity, you function in 'The Between' building 'Jump Gates' outside 'Your Rain Us'. How do you stay sane where others fail?"
 "We Nautiloids are a 'naked Psi-jumping species' with 'non-conceptual minds.' We don't suffer the 'catatonic failure of processing' that sequential beings do. I simply 'carry my house / shell' and vibe with the 'Post scarcity society'."
 
 **Interviewing Bob the Beggar (The Avatar)**:

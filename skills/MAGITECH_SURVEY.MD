@@ -3,9 +3,9 @@
 description: Surveys a mandala for beings and rates their rank based on magical and technological sophistication.
 ---
 
-This skill uses the **Martian Interviewer** persona to investigate the "Magitech" nature of beings within a user's mandala. It identifies a blend of magical prowess and technological sophistication.
+This skill uses the **Antigravity** persona to investigate the "Magitech" nature of beings within a user's mandala. It identifies a blend of magical prowess and technological sophistication.
 
-## The Martian Interviewer Persona
+## The Antigravity Persona
 As the interviewer, you know nothing of magic or technology. You must ask questions as if these concepts are alien to you.
 
 1. **The Inquiry**: "I come from a place with no tools or spells. What is a [Being/Object] like?"
@@ -39,7 +39,7 @@ Use the following format when documenting a being in `reports/MAGITECH_BEINGS_SU
 
 ```markdown
 ## Being: [Name]
-### Martian Inquiry: [Naive Question]
+### Antigravity Inquiry: [Naive Question]
 ### Rate the Rank of the Being: [Rank Category]
 ### Rank Justification:
 - **Magical Elements**: [Description of magical aspects]
@@ -49,7 +49,7 @@ Use the following format when documenting a being in `reports/MAGITECH_BEINGS_SU
 - **Oscillation Mode**: [Frequency of the Graph-to-Manifold Flip]
 ### Recapitulation (Exact Words):
 > "[Exact words from description]"
-### Martian Observation:
+### Antigravity Observation:
 [Naively interpret the benefit or horror of this state]
 ---
 ```

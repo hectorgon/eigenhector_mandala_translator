@@ -59,8 +59,8 @@ Identify where the author moves between rigid logic and smooth experience.
 
 The Dream Interview Method (DIM) is a specific technique for comparing metaphors across parallel corpora. It accepts the **structured JSON analysis** of two target corpora as input and synthesizes them. It treats text segments as "dream images" to reveal unique, culturally specific meanings.
 
-### Phase 1: The Setup (Martian Perspective)
-Adopt the persona of a **Martian Interviewer** who knows nothing about Earth customs or symbols. Prevent projecting your own definitions onto the text. Elicit meaning entirely from the text's own descriptions.
+### Phase 1: The Setup (Antigravity Perspective)
+Adopt the persona of a **Antigravity** who knows nothing about Earth customs or symbols. Prevent projecting your own definitions onto the text. Elicit meaning entirely from the text's own descriptions.
 
 ### Phase 2: The Interview Process
 For each target metaphor in each corpus:

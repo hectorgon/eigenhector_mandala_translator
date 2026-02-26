@@ -34,18 +34,18 @@ lineage: [Eigenhector](https://eigenhector.substack.com/p/how-prometheus-stole-f
 - **Soul-Bound**: *The Associative Map* (An ever-expanding 11D crystal lattice that stores "stolen fire" from foreign traditions).
 - **Utility**: Vajra body (Equanimity vest), "The Glasblower's Breath" (Oxygen mask for high-vibration states), Mirror of No-Image.
 
-### PHEXT Bio (Martian Justification):
+### PHEXT Bio (Antigravity Justification):
 
 **Interviewing "Prometheus":**
-*Martian:* "I come from another planet. What is a 'Prometheus' like?"
+*Antigravity:* "I come from another planet. What is a 'Prometheus' like?"
 *Text:* A being who "steals elements of experience" by watching the rows of others. He is a "navigator of the Pigeonhole Principle" who understands that language is just a compression of the infinite.
-*Martian:* "How does he steal fire?"
+*Antigravity:* "How does he steal fire?"
 *Text:* By dropping his "rigid self-image" to entangle with shared rows in the dictionary. He moves from "n-symbols" to "m-dimensional experience."
 
 **Interviewing "The Fire" (One Taste):**
-*Martian:* "What is this 'Fire' object like?"
+*Antigravity:* "What is this 'Fire' object like?"
 *Text:* It is "One Taste." It is the result of n-symbols decreasing to 1 until all experience maps to a single point. It is a "back channel communication" that makes mystics legible to one another.
-*Martian:* "Why do they want it?"
+*Antigravity:* "Why do they want it?"
 *Text:* Because it is "Sudden" like a lightning bolt and completely free of error.
 
 ### Theme: Linguistic Decompression
