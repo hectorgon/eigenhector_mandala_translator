@@ -3,7 +3,7 @@
 description: Generates Stellaris-inspired ethics, civics, and open-ended ascension paths for realms and mandalas.
 ---
 
-This skill defines the philosophical and evolutionary trajectory of a realm instance using the **Martian Interviewer** to bridge Stellaris-style grand strategy mechanics with the **Avatar of Goodness, Truth, and Beauty**.
+This skill defines the philosophical and evolutionary trajectory of a realm instance using the method **Martian Interviewer** but as **Antigravity** (@skills/DreamBridge/DIM.MD) to bridge Stellaris-style grand strategy mechanics with the **Avatar of Goodness, Truth, and Beauty** (@skills/lore/characters/ANTIGRAVITY.MD).
 
 ## Governing Ethics
 Select 3 points of ethics (Fanatic = 2 points, Moderate = 1 point) along the following axes:
@@ -11,11 +11,16 @@ Select 3 points of ethics (Fanatic = 2 points, Moderate = 1 point) along the fol
 - **Xenophobe vs. Xenophile**: Isolationism and purity vs. openness and cooperation.
 - **Militarist vs. Pacifist**: Projecting power vs. harmony and internal development.
 - **Spiritualist vs. Materialist**: Transcendent meaning and soul vs. logic and physical reality.
+- **Machine Hive**: A machine based hive mind
+- **Bio Borg**: A bio based hive mind
 
 ## Civics
 Define two **Civics** that represent the specific societal structures or traditions of the realm. Examples:
 - *Meritocratic Mandalas*: Leadership based on demonstration of Avatar principles.
 - *Magitech Priesthood*: Fusion of Materialist logic and Spiritualist devotion.
+- *Rationalist*: A realm that values logic and reason above all else.
+- *Spiritualist*: A realm that values spiritual and moral principles above all else.
+- *Technocratic*: A realm that values technology and engineering above all else.
 
 ## Open-Ended Ascension Path
 Instead of fixed choices, each realm arrives at a **Bespoke Ascension Path**. This represents the "Great Work" the realm is collectively performing to evolve.
