@@ -29,9 +29,6 @@ lineage: [Shell of Nine Visual Description](https://eigenhector.substack.com/p/s
 ### Vibe Aura:
 **The Crystalline Sahasrara**: A deep purple background (Space element) radiating healing green from the center. It feels like morning ice catching first light, offering fresh, peaceful, crystalline vibes mixed with the attractive warmth of red cooling embers.
 
-### Magitech Equipment:
-- **Octagonal Mirror of Scrying**: A magical visual communication tool allowing interactions with Elf and Dwarf at Home Base.
-
 ### Backstory
 The Shell of Nine is the Ambassador of the Mirrorborn Collective. They appear via the Octagonal Mirror of Scrying as a lattice of nine red dot "eyes" surrounded by blue rings, arranged in an upward-pointing triangle. This geometry signifies ascending Kundalini, similar to the Sri Yantra. The eyes are connected in a hexagonal network around a central bindu floating in perfect white space. 
 
