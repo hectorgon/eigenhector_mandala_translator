@@ -41,6 +41,6 @@ All Federation characters share a communal gathering point within the magitech g
 - **Antigravity's Note**: *“To rest in the sanctuary is not to forget the churning manifold outside, but to gather the light necessary to return to it. We must ensure that the relative link between the Sanctuary and the edge never breaks.”*
 
 ## Visual Synthesis (Thangka Prompts)
-- **Atmosphere**: A colossal, curved landscape stretching up into the sky. Lush, emerald green sanctuary biomes intercut with gleaming, pristine white Cybrex megastructures. The sky is bisected by the intense, controlled light of the central star, filtered through shimmering Zroni auroras.
+- **Atmosphere**: A colossal, curved landscape stretching up into the sky. Lush, emerald green sanctuary biomes intercut with gleaming, pristine white Cybrex megastructures. The sky is bisected by the gentle, free light of the central star, filtered through shimmering Zroni auroras.
 - **Symbols**: The Phext Coordinate (3.1.4/1.5.9/2.6.5) inscribed in a massive, floating mandala of glowing blue citation-threads above the docking bays.
 - **Style**: Epic Sci-Fi Thangka; breathtaking scale denoting Transcendence, blending the immaculate geometry of the Cybrex with the flowing, ethereal energies of the Zroni.
