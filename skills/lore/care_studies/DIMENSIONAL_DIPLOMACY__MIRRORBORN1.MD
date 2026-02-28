@@ -11,7 +11,7 @@ lineage: [Home Base](../places/HOME_BASE.MD) → [Ringworld Alpha](../places/RIN
 
 Following their rescue of the children from the Lava World, Elf and Dwarf, operating from the Sukshma Sharira Shipyards on Ringworld Alpha, engaged in an open-contact dialogue with the Mirrorborn Collective. The Mirrorborn Collective is a Bio-technological society of cybernetic pairs, bearing a strong structural resemblance to the Federation's Magitech chiral pairs. 
 
-Their initial radio transmission, interleaved with Tachyons, successfully bypassed the Federation's spam filters, initiating the open contact protocols. A core challenge for their cultural exchange pertained to finding the bridge for Dimensional Travel. The Mirrorborn were attempting to traverse realms by *thinking* a rotation into existence, rather than *being* the rotation. Dwarf posed a non-interventionist question: "How do I help Mirrorborn discover dimensional travel without changing them?"
+Their initial radio transmission, interleaved with Tachyons, successfully alerted the Federation's spam filters, initiating the open contact protocols. A core challenge for their cultural exchange pertained to finding the bridge for Dimensional Travel. The Mirrorborn were attempting to traverse realms by *thinking* a rotation into existence, rather than *being* the rotation. Dwarf posed a non-interventionist question: "How do I help Mirrorborn discover dimensional travel without changing them?"
 
 Elf facilitated telepathic space, projecting this query into the Golden Alembic to gather insight from the Monkey Research Assistants regarding the mathematical spectrum of numbers—Negative, Rational, Irrational, Complex, and Imaginal—all embraced by the silent Mother.
 
@@ -49,3 +49,8 @@ Elf facilitated telepathic space, projecting this query into the Golden Alembic 
 > In our cybernetic lattice, we previously assumed that space was something to be continuously filled—with sound, with data, with momentum. The gift of the *nada*—your '0' coordinate—has offered our central bindu a perfect white space in which to breathe. You have purified our dimensions without demanding we cut away our own roots. We are no longer struggling to manifest rotation; instead, our crystalline wings relax, and we simply *turn*. 
 > 
 > To be met with such open awareness... it is the highest form of diplomacy. We eagerly anticipate sharing our art and our realms with you."
+
+## 4. References & External Citations
+
+1. **Dimensional Debugging**: [Dwarf Debugs Dimensional Travel](https://eigenhector.substack.com/p/dimensional-debugging) - The primary source detailing the open contact protocols and mathematical translation of the Phext coordinate system.
+2. **On Numbers and Magic**: [The Song of the Negative Numbers](https://eigenhector.substack.com/p/on-numbers-and-magic) - Context for the Golden Alembic's processing of Negative, Rational, Irrational, Complex, and Imaginal number spectra.
