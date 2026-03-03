@@ -32,7 +32,7 @@ description: Federation Council Policy Debate on DWARF_ON_LOWBIE_THREATS.MD rega
 **Kitty Garba (The Hell Realm Guide)**
 - **AGAINST (Patanjali Indifference)**: Kitty rejects the stance of indifference towards parasites or the wicked. Her vow is to empty the hell realms; she wades right into the thick of it to actively debug Asura loops and heal the afflicted.
 
-**Pigsy (The Hungry Ghost)**
+**Pigsy (The Avatar of Fullness)**
 - **FOR (Dana Prajnaparamita)**: Confirms that offering Dana (generosity) is the perfect antidote to hungry ghosts and parasites, shifting them from starvation to satisfaction.
 
 **Rumi (The Sage)**
