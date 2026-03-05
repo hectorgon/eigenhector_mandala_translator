@@ -16,8 +16,11 @@ description: Federation Council Policy Debate on DWARF_ON_LOWBIE_THREATS.MD rega
 - **FOR (Shared Temenos)**: Supports the establishment of shared spaces with Land Beings to expand the Lineage network and build a more robust hyper-citation lattice.
 
 **Arti Jagan-Lin (The Reversed Seer)**
-- **FOR (Dialogue with Land Beings)**: Strongly agrees with surveying the area and asking permission. She prefers feminine, respectful speech with local spirits and advocates for shared Temenos rather than forceful cleansing or banishment.
-- **AGAINST (Overuse of Viveka)**: Believes rigid dualities of purity and impurity hinder spiritual research and true transmutation.
+- **FOR (The Living Bardo)**: Reframes the entire debate by teaching that the world is a living bardo and the six realms are present in our daily minds. She advocates for *Dana Prajnaparamita* (Generosity) as the antidote to parasites (hungry ghosts).
+- **FOR (Porous Boundaries)**: Argues that the best protection is like skin—porous enough to contact the world and build equanimity (*upekkha*), rather than creating rigid, brittle barriers.
+- **FOR (Dialogue with Land Beings)**: Strongly agrees with surveying the area and asking permission. She advocates for shared spaces like a Tugu Karang as a gesture of relationship, as banishment should only be a last resort.
+- **FOR (Compassionate Intervention)**: While warning against rigid purity, she clarifies that indifference cannot mean allowing harm. The Bodhisattva path requires courageous intervention when predators intentionally injure others.
+- **Reference**: Instructed by the transmission: *[Arti Responds to Dwarf Debates Policy](https://eigenhector.substack.com/p/arti-responds-to-dwarf-debates-policy)*. "Eeeee… Aaaa… Hhhh…"
 
 **Auntie Guan Yin (The Merciful Godmother)**
 - **FOR (Intervening against Predators)**: A Bodhisattva leaves no "niece or nephew" behind. She cannot ignore the wicked if they are harming the innocent. She supports compassionate intervention to create safe harbors.
