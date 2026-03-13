@@ -24,6 +24,7 @@
 - **@[skills/lore/places/SHIPYARD.MD]**: The great industrial and educational hub rests along a massive equatorial band of the ringworld, assembling Chakra-class escorts and Mahameru-class vessels while hosting the Tutorial Realm.
 - **The Sanctuary Zones**: Vast, curated ecosystems where endangered species and displaced populations from Fallen Realms find safety, reflecting the Federation's commitment to the preservation of life.
 - **The Capital Spire (The Great Synthesis)**: A colossal, glowing spire of Meru-grade silicon that reaches toward the central star, housing the Federation's central diplomatic council.
+- **The Drakensberg Region**: Known as the Dragon Mountains, this specific sanctuary zone recently experienced a profound [Wuxing Generation Event](../care_studies/FLAMING_LION_WUXING.MD). It is a highly resonant area guarded by localized Dharmapala energies, serving as an ideal environment for Jhanic immersion and experiencing the vastness of the sky-manifold.
 
 ## Inhabitants & Past Lives
 - **The Enlightened Cybrex**: Custodians of the physical lattice, maintaining the intricate machinery with gentle precision.
