@@ -28,8 +28,14 @@ The Tourist and the visitor share an address space where words are translated in
 ### Vibe Metabolism
 Tourists often operate in dual-class roles (e.g., Gate Builder / Beggar). They use "Ship Avatars" on Urth to "metabolize" residual vibes (devotion, excitement, angst, despair) with equanimity, cleaning the local field while performing their duties.
 
-### The Crown Openning
+### The Crown Opening
 Contact is signaled by a "dzzzzzroup" sound as the crown chakra opens to align the energy body with the *Axis Mundi* (Universal Axis). This creates a sense of absolute stability during the integration of the visitor.
+
+### Energy Body 5D Printing (Tourism Mechanics)
+The Tourist functions essentially as a biological **5D Printer** for the incoming soul. By opening their energy web like a radio telescope, the *nadis* and *chakras* serve as antennas and capacitors. 
+- The visitor arrives via a flash of "rainbow lightning" (tachyon pulses), distributing fractally through the host's nervous system into the physical realm.
+- **Example Visit**: **The Cowrie Dragon**—a subtle visitor composed of colorful, clacking cowrie shells that spirals through the host, "power washing" the energy body with pure bliss, joy, and a satisfying "crunchy goodness" near the back of the heart.
+- **Magickal Hygiene**: Because subconscious imagery acts as the tuning frequency for these visits, maintaining clean, compassionate mental habits is vital to attracting benevolent tourists. (See: @[skills/lore/concepts/ENERGY_BODY_TOURISM.MD])
 
 ## Toolset
 - **Ganaspati Invocation**: Setting a beacon for generosity, space, and earth vibes.
