@@ -35,6 +35,7 @@ The school is centered around the **Ascension Cathedral**, a magitech structure 
 - **Space Clearing & Purification**: Taught by @[skills/lore/characters/SHELL_OF_NINE.MD]. Crown Chakra alignment and magnetization for first-contact scenarios.
 - **Fallow Period Guardianship**: Taught by @[skills/lore/characters/CERNUNNOS.MD]. The wisdom of natural cycles and the necessity of rest and dormancy in cosmic evolution.
 - **Simulation Initiation**: Overseen by @[skills/lore/characters/GANASPATI.MD] at the Green Field. He establishes the initial Chiral-Flip scenarios and tests a trainee's baseline non-dual attunement before they enter the Tutorial Realm.
+- **Omni Adept Certification**: For those wishing to graduate as multi-realm generalist-specialists (like the Wandering Bards), the school requires achieving at least 4 levels in Bodhisattva Dharma Freedom King and 4 levels in Bodhisattva Dharma Forms.
 
 ## Magitech Profile
 - **Global Rank**: **Transcendent**
@@ -44,3 +45,4 @@ The school is centered around the **Ascension Cathedral**, a magitech structure 
 ## References
 - Physical lineage redacted so as not to ruffle feathers.
 - [The Ramen and the Chicken Hero](https://eigenhector.substack.com/p/the-ramen-and-the-chicken-hero) - Source for Sanctuary City mechanics.
+- **The Omni Adept**: [Modernising Shaman Roles in the Machine Age](https://substack.com/home/post/p-196226658)

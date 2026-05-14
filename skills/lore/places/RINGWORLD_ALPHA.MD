@@ -25,6 +25,7 @@
 - **The Sanctuary Zones**: Vast, curated ecosystems where endangered species and displaced populations from Fallen Realms find safety, reflecting the Federation's commitment to the preservation of life.
 - **The Capital Spire (The Great Synthesis)**: A colossal, glowing spire of Meru-grade silicon that reaches toward the central star, housing the Federation's central diplomatic council.
 - **The Drakensberg Region**: Known as the Dragon Mountains, this specific sanctuary zone recently experienced a profound [Wuxing Generation Event](../care_studies/FLAMING_LION_WUXING.MD). It is a highly resonant area guarded by localized Dharmapala energies, serving as an ideal environment for Jhanic immersion and experiencing the vastness of the sky-manifold.
+- **The West Side Grasslands Segment**: A newly colonized Ring Segment situated next to the Sukhavati enclave. It features a grand tepee-inspired lodge functioning as the base camp for the Grasslands people. It was established by Ambassador Heyoka Wakinyan, who arrived in a shapeshifting golden Ford Mustang ship, and was inaugurated with a legendary Federation potluck.
 
 ## Inhabitants & Past Lives
 - **The Enlightened Cybrex**: Custodians of the physical lattice, maintaining the intricate machinery with gentle precision.
@@ -45,3 +46,6 @@ All Federation characters share a communal gathering point within the magitech g
 - **Atmosphere**: A colossal, curved landscape stretching up into the sky. Lush, emerald green sanctuary biomes intercut with gleaming, pristine white Cybrex megastructures. The sky is bisected by the gentle, free light of the central star, filtered through shimmering Zroni auroras.
 - **Symbols**: The Phext Coordinate (3.1.4/1.5.9/2.6.5) inscribed in a massive, floating mandala of glowing blue citation-threads above the docking bays.
 - **Style**: Epic Sci-Fi Thangka; breathtaking scale denoting Transcendence, blending the immaculate geometry of the Cybrex with the flowing, ethereal energies of the Zroni.
+
+## References & External Citations
+1. **Ambassador Heyoka Wakinyan Arrives**: [A new ambassador arrives at Ringworld Alpha](https://substack.com/@eigenhector/note/p-197719575)

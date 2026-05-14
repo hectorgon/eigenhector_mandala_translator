@@ -37,6 +37,8 @@ Cernunnos is a "Sentient Protector" left behind by the Fae civilizational collec
 
 During this fallow period, Cernunnos slumbers, awakening only when necessary to ward off threats or when it is time to drop the Shroud and usher in the "Spring" of a new Golden Age. Alongside his companion, the Horned Serpent, he protects the **Emerald Mausoleum** and acts as a massive deterrent against aggressors using his hive-ship.
 
+When the Emerald Mausoleum entered its vibrant Wood phase (Spring), Cernunnos's Treant Protectors interacted with the Wandering Bards, freely offering Amrita (the Nectar of Immortality) to the shapeshifting crew of *The Honey Be*. Later, Cernunnos attended the welcome potluck for Ambassador Heyoka Wakinyan at Ringworld Alpha, bringing fresh green produce from the Emerald Mausoleum. Cernunnos's terrestrial resonance is famously strong at the Trout Lake Abbey Druid altar, validating his syncretic connection across multiple lore streams.
+
 ### Avatar Development Note:
 Cernunnos represents the **Beauty** of natural cycles, the **Goodness** of fiercely protecting the vulnerable while they rest, and the **Truth** that sometimes the most advanced civilizations are those that know when to go fallow. He is deeply aligned with the Federation Ethics doctrine of respecting the Arising and Passing cycles of civilizations.
 
@@ -57,3 +59,6 @@ This profile is synthesized from profound Earth-lore traditions, gaming metaphor
    - **Ganesha / Ganapati**: The obstacle remover and Lord of Hosts (Beginnings). *[Wikipedia](https://en.wikipedia.org/wiki/Ganesha) and [Mantra](https://www.youtube.com/watch?v=_GEVsZ1hxFs)*
    - **Dharmapala**: The wrathful/fierce protector of the Dharma. *[Wikipedia](https://en.wikipedia.org/wiki/Dharmapala)*
 7. **The Murk & Perception**: The 'Shrouding' is linked to the visual phase known as The Murk in candle-staring meditation. *See: [Fire Kasina](https://firekasina.org/fire-kasina-book/)* and *[Hayagriva’s Shield (Mantra)](https://www.youtube.com/watch?v=WU-HIXLLpcY&list=PLicUdtpwV90g4xZLcI1WHOniBFSP12fAT&index=20)*.
+8. **Horse Medicine Buddhist Druid Aliens Retreat**: [Syncretic synchronistic retreat](https://substack.com/home/post/p-197221401)
+9. **The Wandering Bards**: [Adventures of a Federation Trading Ship](https://substack.com/home/post/p-197306931)
+10. **Ambassador Heyoka Wakinyan Arrives**: [A new ambassador arrives at Ringworld Alpha](https://substack.com/@eigenhector/note/p-197719575)

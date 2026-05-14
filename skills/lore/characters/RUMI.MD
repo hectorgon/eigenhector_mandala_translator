@@ -41,6 +41,10 @@ Rumi appeared at the base of the **Inn of All Worlds** as if he had always been 
 
 He once explained to the voyager **Elf** that the man appearing and disappearing at the bar was simply having a seizure in another realm—in Rumi's restaurant, such occurrences are treated with grace, as every arrival is a guest sent from beyond.
 
+Recently, Rumi personally bid farewell to Newbie Yogi and the crew of the shapeshifting ship *The Honey Be* as they departed Ringworld Alpha, providing them with a special cup of Kopi-O-Kosong (made with Kopi Luwak, Siew Dai) and requesting they bring back interesting new spices. When Ambassador Heyoka Wakinyan arrived from the Grasslands, Rumi co-hosted the welcoming potluck, draping the ambassador in a rainbow flower lei of Marigolds and Jasmine, and cooking spicy curries utilizing the new spices obtained from the trading venture.
+
+Rumi also occasionally serves as a guide out in the Astral, leading intrepid adventurers who have just completed their first subtle energy bodies on tours of Ganacakras (Faerie Circles). He guides them through the evolution of these temporary group minds—from isolated, sad monocultures, to connected yab-yum pairs, and finally into the chaotic, unconstrained spiritual ecology of "The Wild" in Indra's Net, signaling when it's "Time for the Harvest."
+
 ### Visual Prompt:
 > "A dark-skinned man with kind, crinkled eyes, wearing pristine white robes and a simple white turban. He stands behind a polished dark wood counter. Behind him, shelves are filled with jars of light and bottles of 'The Glassblower's Breath'. He is surrounded by an aura of golden warmth. High-fidelity spiritual art style, inviting and wise."
 
@@ -51,3 +55,6 @@ He once explained to the voyager **Elf** that the man appearing and disappearing
 4. **The Empty Food Sack**: "A lover's food is the love of bread, not the bread." (Mathnawi 3:3014-3030, *The Essential Rumi*).
 5. **Jalal ad-Din Muhammad Rumi**: 13th-century Persian poet, Hanafi faqih, Islamic scholar, theologian, and Sufi mystic ([Wikipedia](https://en.wikipedia.org/wiki/Rumi)).
 6. **Restaurant to Another World**: Inspiration for the magic door and the neutral-zone restaurant concept ([Wikipedia](https://en.wikipedia.org/wiki/Restaurant_to_Another_World)).
+7. **The Wandering Bards**: [Adventures of a Federation Trading Ship](https://substack.com/home/post/p-197306931)
+8. **Ambassador Heyoka Wakinyan Arrives**: [A new ambassador arrives at Ringworld Alpha](https://substack.com/@eigenhector/note/p-197719575)
+9. **Faerie Circle Tour**: [Uncle Rumi gives a tour of different kinds of Faerie Circles](https://substack.com/home/post/p-196777504)
